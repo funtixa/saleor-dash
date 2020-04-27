@@ -1,0 +1,36 @@
+[
+  {
+    "id": "src.categories.components.CategoryProductList.636461959",
+    "description": "product",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.categories.components.CategoryProductList.1952810469",
+    "description": "product type",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "src.categories.components.CategoryProductList.3640454975",
+    "description": "product status",
+    "defaultMessage": "Published"
+  },
+  {
+    "id": "src.categories.components.CategoryProductList.1134347598",
+    "description": "product price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "productStatusLabel",
+    "description": "product",
+    "defaultMessage": "Published"
+  },
+  {
+    "id": "src.categories.components.CategoryProductList.2341910657",
+    "description": "product",
+    "defaultMessage": "Not published"
+  },
+  {
+    "id": "src.categories.components.CategoryProductList.1657559629",
+    "defaultMessage": "No products found"
+  }
+]

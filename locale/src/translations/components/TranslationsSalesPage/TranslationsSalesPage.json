@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.translations.components.TranslationsSalesPage.3731955064",
+    "description": "header",
+    "defaultMessage": "Translation Sale \"{saleName}\" - {languageCode}"
+  },
+  {
+    "id": "src.translations.components.TranslationsSalesPage.898281424",
+    "defaultMessage": "Sale Name"
+  }
+]

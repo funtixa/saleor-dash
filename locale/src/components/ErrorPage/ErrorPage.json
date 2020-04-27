@@ -1,0 +1,23 @@
+[
+  {
+    "id": "src.components.ErrorPage.2736139139",
+    "defaultMessage": "Ooops!..."
+  },
+  {
+    "id": "src.components.ErrorPage.2845142593",
+    "defaultMessage": "Error"
+  },
+  {
+    "id": "src.components.ErrorPage.3182212440",
+    "defaultMessage": "We've encountered a problem..."
+  },
+  {
+    "id": "src.components.ErrorPage.3090161573",
+    "defaultMessage": "Don't worry, everything is gonna be fine"
+  },
+  {
+    "id": "src.components.ErrorPage.1723676032",
+    "description": "button",
+    "defaultMessage": "Back to home"
+  }
+]

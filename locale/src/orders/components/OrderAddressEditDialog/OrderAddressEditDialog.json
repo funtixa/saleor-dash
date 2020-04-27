@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.orders.components.OrderAddressEditDialog.3982060155",
+    "description": "dialog header",
+    "defaultMessage": "Edit Billing Address"
+  },
+  {
+    "id": "src.orders.components.OrderAddressEditDialog.3278396777",
+    "description": "dialog header",
+    "defaultMessage": "Edit Shipping Address"
+  }
+]

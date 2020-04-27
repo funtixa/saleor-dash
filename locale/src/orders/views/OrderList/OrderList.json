@@ -1,0 +1,15 @@
+[
+  {
+    "id": "src.orders.views.OrderList.1872939752",
+    "defaultMessage": "Order draft succesfully created"
+  },
+  {
+    "id": "src.orders.views.OrderList.1136302661",
+    "defaultMessage": "Orders cancelled"
+  },
+  {
+    "id": "src.orders.views.OrderList.3528672691",
+    "description": "cancel orders, button",
+    "defaultMessage": "Cancel"
+  }
+]

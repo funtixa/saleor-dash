@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.attributes.views.AttributeDetails.499456739",
+    "defaultMessage": "Attribute deleted"
+  },
+  {
+    "id": "src.attributes.views.AttributeDetails.423042761",
+    "description": "attribute value deleted",
+    "defaultMessage": "Value deleted"
+  },
+  {
+    "id": "src.attributes.views.AttributeDetails.634268988",
+    "description": "added new attribute value",
+    "defaultMessage": "Added new value"
+  }
+]

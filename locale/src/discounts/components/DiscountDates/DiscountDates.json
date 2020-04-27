@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.discounts.components.DiscountDates.1662220323",
+    "description": "time during discount is active, header",
+    "defaultMessage": "Active Dates"
+  },
+  {
+    "id": "src.discounts.components.DiscountDates.1596226028",
+    "description": "voucher end date, switch button",
+    "defaultMessage": "Set end date"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "src.productTypes.components.ProductTypeList.2253986440",
+    "description": "product type name",
+    "defaultMessage": "Type Name"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeList.1952810469",
+    "description": "product type is either simple or configurable",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeList.1240292548",
+    "description": "tax rate for a product type",
+    "defaultMessage": "Tax"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeList.2754779425",
+    "description": "product type",
+    "defaultMessage": "Configurable"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeList.1211157042",
+    "description": "product type",
+    "defaultMessage": "Simple product"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeList.966610541",
+    "description": "product type",
+    "defaultMessage": "Physical"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeList.881286562",
+    "description": "product type",
+    "defaultMessage": "Digital"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeList.1126553969",
+    "defaultMessage": "No product types found"
+  }
+]

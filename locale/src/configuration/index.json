@@ -1,0 +1,62 @@
+[
+  {
+    "id": "src.configuration.2326418019",
+    "defaultMessage": "Attributes and Product Typess"
+  },
+  {
+    "id": "configurationMenuAttributes",
+    "defaultMessage": "Determine attributes used to create product types"
+  },
+  {
+    "id": "configurationMenuProductTypes",
+    "defaultMessage": "Define types of products you sell"
+  },
+  {
+    "id": "src.configuration.3655543906",
+    "defaultMessage": "Product Settings"
+  },
+  {
+    "id": "configurationMenuShipping",
+    "defaultMessage": "Manage how you ship out orders"
+  },
+  {
+    "id": "configurationMenuTaxes",
+    "defaultMessage": "Manage how your store charges tax"
+  },
+  {
+    "id": "src.configuration.3140151600",
+    "defaultMessage": "Staff Settings"
+  },
+  {
+    "id": "configurationMenuStaff",
+    "defaultMessage": "Manage your employees and their permissions"
+  },
+  {
+    "id": "src.configuration.1233229030",
+    "defaultMessage": "Miscellaneous"
+  },
+  {
+    "id": "configurationMenuNavigation",
+    "defaultMessage": "Define how users can navigate through your store"
+  },
+  {
+    "id": "configurationMenuSiteSettings",
+    "defaultMessage": "View and update your site settings"
+  },
+  {
+    "id": "configurationMenuPages",
+    "defaultMessage": "Manage and add additional pages"
+  },
+  {
+    "id": "configurationPluginsPages",
+    "defaultMessage": "View and update your plugins and their settings."
+  },
+  {
+    "id": "src.configuration.2387898569",
+    "defaultMessage": "Manage external integrations accounts"
+  },
+  {
+    "id": "src.configuration.1639245766",
+    "defaultMessage": "View and update your webhook and their settings"
+  }
+]

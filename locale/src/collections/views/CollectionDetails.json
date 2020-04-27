@@ -1,0 +1,46 @@
+[
+  {
+    "id": "src.collections.views.2001540731",
+    "defaultMessage": "Added product to collection"
+  },
+  {
+    "id": "src.collections.views.3482612628",
+    "defaultMessage": "Deleted product from collection"
+  },
+  {
+    "id": "src.collections.views.1152429477",
+    "defaultMessage": "Deleted collection"
+  },
+  {
+    "id": "src.collections.views.870815507",
+    "description": "unassign product from collection, button",
+    "defaultMessage": "Unassign"
+  },
+  {
+    "id": "src.collections.views.699514132",
+    "description": "dialog title",
+    "defaultMessage": "Delete Collection"
+  },
+  {
+    "id": "src.collections.views.523939418",
+    "defaultMessage": "Are you sure you want to delete {collectionName}?"
+  },
+  {
+    "id": "src.collections.views.3791354625",
+    "description": "dialog title",
+    "defaultMessage": "Unassign products from collection"
+  },
+  {
+    "id": "src.collections.views.1736632967",
+    "defaultMessage": "Are you sure you want to unassign {counter,plural,one{this product} other{{displayQuantity} products}}?"
+  },
+  {
+    "id": "src.collections.views.942133001",
+    "description": "dialog title",
+    "defaultMessage": "Delete image"
+  },
+  {
+    "id": "src.collections.views.2402899582",
+    "defaultMessage": "Are you sure you want to delete collection's image?"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.products.components.ProductVariantNavigation.2153006789",
+    "description": "section header",
+    "defaultMessage": "Variants"
+  },
+  {
+    "id": "src.products.components.ProductVariantNavigation.2845381934",
+    "description": "button",
+    "defaultMessage": "Add variant"
+  },
+  {
+    "id": "src.products.components.ProductVariantNavigation.3185562157",
+    "description": "variant name",
+    "defaultMessage": "New Variant"
+  }
+]

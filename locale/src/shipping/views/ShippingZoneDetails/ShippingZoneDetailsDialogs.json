@@ -1,0 +1,32 @@
+[
+  {
+    "id": "src.shipping.views.ShippingZoneDetails.1502359905",
+    "description": "dialog header",
+    "defaultMessage": "Delete Shipping Method"
+  },
+  {
+    "id": "shippingZoneDetailsDialogsDeleteShippingMethod",
+    "description": "delete shipping method",
+    "defaultMessage": "Are you sure you want to delete {name}?"
+  },
+  {
+    "id": "src.shipping.views.ShippingZoneDetails.1010705153",
+    "description": "dialog header",
+    "defaultMessage": "Delete Shipping Zone"
+  },
+  {
+    "id": "shippingZoneDetailsDialogsDeleteShippingZone",
+    "description": "delete shipping zone",
+    "defaultMessage": "Are you sure you want to delete {name}?"
+  },
+  {
+    "id": "src.shipping.views.ShippingZoneDetails.3133838427",
+    "description": "unassign country, dialog header",
+    "defaultMessage": "Delete from Shipping Zone"
+  },
+  {
+    "id": "src.shipping.views.ShippingZoneDetails.131963671",
+    "description": "unassign country",
+    "defaultMessage": "Are you sure you want to delete {countryName} from this shipping zone?"
+  }
+]

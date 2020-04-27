@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.components.MoneyRange.1316359951",
+    "description": "money",
+    "defaultMessage": "{fromMoney} - {toMoney}"
+  },
+  {
+    "id": "src.components.MoneyRange.3729849657",
+    "description": "money",
+    "defaultMessage": "from {money}"
+  },
+  {
+    "id": "src.components.MoneyRange.12301532",
+    "description": "money",
+    "defaultMessage": "to {money}"
+  }
+]

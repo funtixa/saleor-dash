@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.productTypes.components.ProductTypeListPage.3479705616",
+    "description": "button",
+    "defaultMessage": "create product type"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeListPage.1776073799",
+    "description": "tab name",
+    "defaultMessage": "All Product Types"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeListPage.3420445375",
+    "defaultMessage": "Search Product Type"
+  }
+]

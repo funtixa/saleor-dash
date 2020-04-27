@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.services.components.ServiceTokenDeleteDialog.1534767622",
+    "description": "dialog title",
+    "defaultMessage": "Delete Service Account"
+  },
+  {
+    "id": "src.services.components.ServiceTokenDeleteDialog.981802752",
+    "description": "delete token",
+    "defaultMessage": "Are you sure you want to delete token {token}?"
+  }
+]

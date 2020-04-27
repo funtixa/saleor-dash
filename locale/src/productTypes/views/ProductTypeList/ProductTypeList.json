@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.productTypes.views.ProductTypeList.4080551769",
+    "description": "dialog header",
+    "defaultMessage": "Delete Product Types"
+  },
+  {
+    "id": "src.productTypes.views.ProductTypeList.2044482887",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this product type} other{{displayQuantity} product types}}?"
+  }
+]

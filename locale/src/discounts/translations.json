@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.discounts.order",
+    "description": "voucher discount",
+    "defaultMessage": "Entire order"
+  },
+  {
+    "id": "src.discounts.products",
+    "description": "voucher discount",
+    "defaultMessage": "Specific products"
+  },
+  {
+    "id": "src.discounts.shipment",
+    "description": "voucher discount",
+    "defaultMessage": "Shipment"
+  }
+]

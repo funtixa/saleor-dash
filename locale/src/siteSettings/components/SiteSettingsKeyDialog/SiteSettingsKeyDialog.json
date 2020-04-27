@@ -1,0 +1,26 @@
+[
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeyDialog.1238948746",
+    "description": "dialog header",
+    "defaultMessage": "Add New Authorization Key"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeyDialog.3039841202",
+    "description": "authentication provider name",
+    "defaultMessage": "Authentication type"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeyDialog.2446088470",
+    "description": "authentication provider API key",
+    "defaultMessage": "Key"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeyDialog.2237029987",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeyDialog.50561933",
+    "description": "button",
+    "defaultMessage": "Add authentication"
+  }
+]

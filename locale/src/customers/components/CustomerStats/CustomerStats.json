@@ -1,0 +1,15 @@
+[
+  {
+    "id": "src.customers.components.CustomerStats.2543847016",
+    "description": "section header",
+    "defaultMessage": "Customer History"
+  },
+  {
+    "id": "src.customers.components.CustomerStats.1135318032",
+    "defaultMessage": "Last login"
+  },
+  {
+    "id": "src.customers.components.CustomerStats.1787449306",
+    "defaultMessage": "Last order"
+  }
+]

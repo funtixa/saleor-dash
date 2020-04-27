@@ -1,0 +1,24 @@
+[
+  {
+    "id": "src.customers.components.CustomerAddress.1224809208",
+    "defaultMessage": "Default Address"
+  },
+  {
+    "id": "src.customers.components.CustomerAddress.4109348993",
+    "defaultMessage": "Default Shipping Address"
+  },
+  {
+    "id": "src.customers.components.CustomerAddress.1578192486",
+    "defaultMessage": "Default Billing Address"
+  },
+  {
+    "id": "src.customers.components.CustomerAddress.2131178753",
+    "description": "button",
+    "defaultMessage": "Set as default shipping address"
+  },
+  {
+    "id": "src.customers.components.CustomerAddress.3096438859",
+    "description": "button",
+    "defaultMessage": "Set as default billing address"
+  }
+]

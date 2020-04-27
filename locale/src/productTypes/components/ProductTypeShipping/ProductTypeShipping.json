@@ -1,0 +1,20 @@
+[
+  {
+    "id": "src.productTypes.components.ProductTypeShipping.1325966144",
+    "description": "product type shipping settings, section header",
+    "defaultMessage": "Shipping"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeShipping.2143413921",
+    "description": "switch button",
+    "defaultMessage": "Is this product shippable?"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeShipping.746695941",
+    "defaultMessage": "Weight"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeShipping.2927891783",
+    "defaultMessage": "Used to calculate rates for shipping for products of this product type, when specific weight is not given"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.components.TableFilter.1514415736",
+    "description": "button",
+    "defaultMessage": "Save Custom Search"
+  },
+  {
+    "id": "src.components.TableFilter.2173195312",
+    "description": "button",
+    "defaultMessage": "Delete Search"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "src.auth.components.LoginPage.3476994590",
+    "defaultMessage": "Sorry, your username and/or password are incorrect. Please try again."
+  },
+  {
+    "id": "src.auth.components.LoginPage.2237029987",
+    "defaultMessage": "Password"
+  },
+  {
+    "id": "src.auth.components.LoginPage.109182747",
+    "description": "button",
+    "defaultMessage": "Login"
+  },
+  {
+    "id": "src.auth.components.LoginPage.4028609483",
+    "description": "button",
+    "defaultMessage": "Reset your password"
+  }
+]

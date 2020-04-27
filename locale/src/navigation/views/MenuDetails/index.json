@@ -1,0 +1,11 @@
+[
+  {
+    "id": "menuDetailsDeleteMenuHeader",
+    "description": "dialog header",
+    "defaultMessage": "Delete Menu"
+  },
+  {
+    "id": "menuDetailsDeleteMenuContent",
+    "defaultMessage": "Are you sure you want to delete menu {menuName}?"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src.products.components.ProductVariantPrice.1099355007",
+    "description": "product pricing, section header",
+    "defaultMessage": "Pricing"
+  },
+  {
+    "id": "src.products.components.ProductVariantPrice.2238565650",
+    "defaultMessage": "Selling price override"
+  },
+  {
+    "id": "productVariantPriceOptionalPriceOverrideField",
+    "description": "optional field",
+    "defaultMessage": "Optional"
+  },
+  {
+    "id": "src.products.components.ProductVariantPrice.1416480328",
+    "defaultMessage": "Cost price override"
+  },
+  {
+    "id": "productVariantPriceOptionalCostPriceField",
+    "description": "optional field",
+    "defaultMessage": "Optional"
+  }
+]

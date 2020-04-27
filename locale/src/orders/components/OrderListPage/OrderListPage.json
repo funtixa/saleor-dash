@@ -1,0 +1,20 @@
+[
+  {
+    "id": "src.orders.components.OrderListPage.2826235371",
+    "description": "button",
+    "defaultMessage": "Create order"
+  },
+  {
+    "id": "src.orders.components.OrderListPage.875489544",
+    "description": "tab name",
+    "defaultMessage": "All Orders"
+  },
+  {
+    "id": "src.orders.components.OrderListPage.3524904717",
+    "defaultMessage": "Select all orders where:"
+  },
+  {
+    "id": "src.orders.components.OrderListPage.355376157",
+    "defaultMessage": "Search Orders..."
+  }
+]

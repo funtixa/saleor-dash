@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.customers.views.3901579344",
+    "defaultMessage": "Customer Removed"
+  },
+  {
+    "id": "src.customers.views.1998583641",
+    "description": "dialog header",
+    "defaultMessage": "Delete Customer"
+  },
+  {
+    "id": "src.customers.views.1927691511",
+    "description": "delete customer, dialog content",
+    "defaultMessage": "Are you sure you want to delete {email}?"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.categories.components.CategoryCreatePage.236319840",
+    "description": "page header",
+    "defaultMessage": "Create New Category"
+  },
+  {
+    "id": "src.categories.components.CategoryCreatePage.2563994280",
+    "defaultMessage": "Add search engine title and description to make this category easier to find"
+  }
+]

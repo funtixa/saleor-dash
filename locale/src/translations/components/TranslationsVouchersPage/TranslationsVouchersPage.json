@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.translations.components.TranslationsVouchersPage.2447510181",
+    "description": "header",
+    "defaultMessage": "Translation Voucher \"{voucherName}\" - {languageCode}"
+  },
+  {
+    "id": "src.translations.components.TranslationsVouchersPage.2599922713",
+    "defaultMessage": "Voucher Name"
+  }
+]

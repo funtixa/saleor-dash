@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.customers.components.CustomerCreateNote.1520756907",
+    "description": "notes about customer header",
+    "defaultMessage": "Notes"
+  },
+  {
+    "id": "src.customers.components.CustomerCreateNote.932844352",
+    "defaultMessage": "Enter any extra infotmation regarding this customer."
+  },
+  {
+    "id": "src.customers.components.CustomerCreateNote.577013340",
+    "description": "note about customer",
+    "defaultMessage": "Note"
+  }
+]

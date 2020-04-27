@@ -1,0 +1,39 @@
+[
+  {
+    "id": "src.collections.views.CollectionList.2237014112",
+    "description": "unpublish collections",
+    "defaultMessage": "Unpublish"
+  },
+  {
+    "id": "src.collections.views.CollectionList.1547167026",
+    "description": "publish collections",
+    "defaultMessage": "Publish"
+  },
+  {
+    "id": "src.collections.views.CollectionList.2823425739",
+    "description": "dialog title",
+    "defaultMessage": "Publish collections"
+  },
+  {
+    "id": "src.collections.views.CollectionList.212620904",
+    "defaultMessage": "Are you sure you want to publish {counter,plural,one{this collection} other{{displayQuantity} collections}}?"
+  },
+  {
+    "id": "src.collections.views.CollectionList.2637364047",
+    "description": "dialog title",
+    "defaultMessage": "Unpublish collections"
+  },
+  {
+    "id": "src.collections.views.CollectionList.3404761698",
+    "defaultMessage": "Are you sure you want to unpublish {counter,plural,one{this collection} other{{displayQuantity} collections}}?"
+  },
+  {
+    "id": "src.collections.views.CollectionList.3817188998",
+    "description": "dialog title",
+    "defaultMessage": "Delete collections"
+  },
+  {
+    "id": "src.collections.views.CollectionList.3699365879",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this collection} other{{displayQuantity} collections}}?"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.customers.components.CustomerAddressDialog.3769321414",
+    "description": "dialog title",
+    "defaultMessage": "Add Address"
+  },
+  {
+    "id": "src.customers.components.CustomerAddressDialog.2364475135",
+    "description": "dialog title",
+    "defaultMessage": "Edit Address"
+  }
+]

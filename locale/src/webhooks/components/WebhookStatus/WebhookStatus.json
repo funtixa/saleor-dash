@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.webhooks.components.WebhookStatus.596557805",
+    "description": "section header",
+    "defaultMessage": "Webhook Status"
+  },
+  {
+    "id": "src.webhooks.components.WebhookStatus.313090629",
+    "description": "webhook active",
+    "defaultMessage": "If you want to disable this webhook please uncheck the box below."
+  },
+  {
+    "id": "src.webhooks.components.WebhookStatus.2772025990",
+    "description": "webhooks active",
+    "defaultMessage": "Webhook is active"
+  }
+]

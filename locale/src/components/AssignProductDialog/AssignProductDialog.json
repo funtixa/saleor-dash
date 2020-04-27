@@ -1,0 +1,20 @@
+[
+  {
+    "id": "src.components.AssignProductDialog.649693468",
+    "description": "dialog header",
+    "defaultMessage": "Assign Product"
+  },
+  {
+    "id": "src.components.AssignProductDialog.2850255786",
+    "defaultMessage": "Search Products"
+  },
+  {
+    "id": "src.components.AssignProductDialog.2336947364",
+    "defaultMessage": "Search by product name, attribute, product type etc..."
+  },
+  {
+    "id": "src.components.AssignProductDialog.2100305525",
+    "description": "button",
+    "defaultMessage": "Assign products"
+  }
+]

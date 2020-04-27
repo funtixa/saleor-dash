@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.components.Filter.2230339185",
+    "defaultMessage": "Select Filter..."
+  },
+  {
+    "id": "src.components.Filter.2851720415",
+    "description": "button",
+    "defaultMessage": "Add filter"
+  }
+]

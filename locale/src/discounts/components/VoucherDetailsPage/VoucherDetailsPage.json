@@ -1,0 +1,30 @@
+[
+  {
+    "id": "src.discounts.components.VoucherDetailsPage.346170541",
+    "description": "number of categories",
+    "defaultMessage": "Categories ({quantity})"
+  },
+  {
+    "id": "src.discounts.components.VoucherDetailsPage.3673147015",
+    "description": "number of collections",
+    "defaultMessage": "Collections ({quantity})"
+  },
+  {
+    "id": "src.discounts.components.VoucherDetailsPage.846927739",
+    "description": "number of products",
+    "defaultMessage": "Products ({quantity})"
+  },
+  {
+    "id": "src.discounts.components.VoucherDetailsPage.2071139683",
+    "defaultMessage": "Voucher applies to all countries"
+  },
+  {
+    "id": "src.discounts.components.VoucherDetailsPage.3109712047",
+    "description": "voucher country range",
+    "defaultMessage": "Countries"
+  },
+  {
+    "id": "src.discounts.components.VoucherDetailsPage.2102960822",
+    "defaultMessage": "Voucher is limited to these countries"
+  }
+]

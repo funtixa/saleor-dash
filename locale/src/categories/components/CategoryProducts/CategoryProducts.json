@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.categories.components.CategoryProducts.4164156574",
+    "description": "header",
+    "defaultMessage": "Products in {categoryName}"
+  },
+  {
+    "id": "src.categories.components.CategoryProducts.3554578821",
+    "description": "button",
+    "defaultMessage": "Add product"
+  }
+]

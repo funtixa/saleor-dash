@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src.discounts.components.DiscountCollections.452750900",
+    "description": "section header",
+    "defaultMessage": "Eligible Collections"
+  },
+  {
+    "id": "src.discounts.components.DiscountCollections.1035511604",
+    "description": "button",
+    "defaultMessage": "Assign collections"
+  },
+  {
+    "id": "src.discounts.components.DiscountCollections.3011396316",
+    "defaultMessage": "Collection name"
+  },
+  {
+    "id": "src.discounts.components.DiscountCollections.2968663655",
+    "description": "number of products",
+    "defaultMessage": "Products"
+  },
+  {
+    "id": "src.discounts.components.DiscountCollections.2137803833",
+    "defaultMessage": "No collections found"
+  }
+]

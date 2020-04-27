@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.collections.components.CollectionImage.2224943474",
+    "description": "section header",
+    "defaultMessage": "Background Image (optional)"
+  },
+  {
+    "id": "src.collections.components.CollectionImage.3289097895",
+    "description": "field is optional",
+    "defaultMessage": "(Optional)"
+  }
+]

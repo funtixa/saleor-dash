@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src.plugins.components.PluginsDetailsPage.3352026836",
+    "description": "header",
+    "defaultMessage": "{pluginName} Details"
+  },
+  {
+    "id": "src.plugins.components.PluginsDetailsPage.3425535100",
+    "description": "section header",
+    "defaultMessage": "Plugin Information and Status"
+  },
+  {
+    "id": "src.plugins.components.PluginsDetailsPage.2277745418",
+    "defaultMessage": "These are general information about your store. They define what is the URL of your store and what is shown in brow sers taskbar."
+  },
+  {
+    "id": "src.plugins.components.PluginsDetailsPage.1970881031",
+    "description": "section header",
+    "defaultMessage": "Plugin Settings"
+  },
+  {
+    "id": "src.plugins.components.PluginsDetailsPage.4241018152",
+    "defaultMessage": "This adress will be used to generate invoices and calculate shipping rates. Email adress you provide here will be used as a contact adress for your customers."
+  }
+]

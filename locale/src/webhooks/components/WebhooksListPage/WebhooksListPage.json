@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.webhooks.components.WebhooksListPage.2295583901",
+    "description": "button",
+    "defaultMessage": "Create webhook"
+  },
+  {
+    "id": "src.webhooks.components.WebhooksListPage.3300314452",
+    "description": "tab name",
+    "defaultMessage": "All Webhooks"
+  },
+  {
+    "id": "src.webhooks.components.WebhooksListPage.1432828311",
+    "defaultMessage": "Search Webhooks"
+  }
+]

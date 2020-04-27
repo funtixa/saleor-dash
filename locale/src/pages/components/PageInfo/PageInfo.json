@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.pages.components.PageInfo.1124600214",
+    "description": "page title",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "src.pages.components.PageInfo.1116746286",
+    "description": "page content",
+    "defaultMessage": "Content"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.plugins.components.PluginInfo.3425535100",
+    "description": "section header",
+    "defaultMessage": "Plugin Information and Status"
+  },
+  {
+    "id": "src.plugins.components.PluginInfo.1049131348",
+    "description": "plugin name",
+    "defaultMessage": "Plugin Name"
+  },
+  {
+    "id": "src.plugins.components.PluginInfo.1756106276",
+    "description": "plugin status",
+    "defaultMessage": "Status"
+  },
+  {
+    "id": "src.plugins.components.PluginInfo.4013064767",
+    "defaultMessage": "Set plugin as Active"
+  }
+]

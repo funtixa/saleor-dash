@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.attributes.components.AttributeBulkDeleteDialog.1655187315",
+    "description": "dialog title",
+    "defaultMessage": "Delete attributes"
+  },
+  {
+    "id": "src.attributes.components.AttributeBulkDeleteDialog.936107852",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this attribute} other{{displayQuantity} attributes}}?"
+  }
+]

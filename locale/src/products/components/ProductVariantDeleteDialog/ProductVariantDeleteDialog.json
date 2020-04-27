@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.products.components.ProductVariantDeleteDialog.3726089650",
+    "description": "dialog header",
+    "defaultMessage": "Delete Variant"
+  },
+  {
+    "id": "src.products.components.ProductVariantDeleteDialog.2297471173",
+    "description": "delete product variant",
+    "defaultMessage": "Are you sure you want to delete {name}?"
+  },
+  {
+    "id": "src.products.components.ProductVariantDeleteDialog.1583616500",
+    "description": "button",
+    "defaultMessage": "Delete variant"
+  }
+]

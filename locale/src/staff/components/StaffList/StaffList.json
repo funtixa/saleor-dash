@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src.staff.components.StaffList.636461959",
+    "description": "staff member full name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.staff.components.StaffList.1789607185",
+    "defaultMessage": "Email Address"
+  },
+  {
+    "id": "src.staff.components.StaffList.3247064221",
+    "description": "staff member status",
+    "defaultMessage": "Active"
+  },
+  {
+    "id": "src.staff.components.StaffList.1004218338",
+    "description": "staff member status",
+    "defaultMessage": "Inactive"
+  },
+  {
+    "id": "src.staff.components.StaffList.480166346",
+    "defaultMessage": "No staff members found"
+  }
+]

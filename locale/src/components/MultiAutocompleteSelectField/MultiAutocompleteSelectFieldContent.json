@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.components.MultiAutocompleteSelectField.1477537381",
+    "description": "add custom select input option",
+    "defaultMessage": "Add new value: {value}"
+  },
+  {
+    "id": "src.components.MultiAutocompleteSelectField.4205644805",
+    "defaultMessage": "No results found"
+  }
+]

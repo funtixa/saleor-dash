@@ -1,0 +1,36 @@
+[
+  {
+    "id": "src.customers.components.CustomerOrders.1899831623",
+    "description": "section header",
+    "defaultMessage": "Recent Orders"
+  },
+  {
+    "id": "src.customers.components.CustomerOrders.3029139173",
+    "description": "button",
+    "defaultMessage": "View all orders"
+  },
+  {
+    "id": "src.customers.components.CustomerOrders.2889196282",
+    "description": "number of order",
+    "defaultMessage": "No. of Order"
+  },
+  {
+    "id": "src.customers.components.CustomerOrders.4205493358",
+    "description": "order placement date",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "src.customers.components.CustomerOrders.1756106276",
+    "description": "order status",
+    "defaultMessage": "Status"
+  },
+  {
+    "id": "src.customers.components.CustomerOrders.878013594",
+    "description": "order total amount",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "src.customers.components.CustomerOrders.898333473",
+    "defaultMessage": "No orders found"
+  }
+]

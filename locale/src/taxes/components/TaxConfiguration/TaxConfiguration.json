@@ -1,0 +1,19 @@
+[
+  {
+    "id": "src.taxes.components.TaxConfiguration.142803418",
+    "defaultMessage": "All products prices are entered with tax included"
+  },
+  {
+    "id": "src.taxes.components.TaxConfiguration.2102582640",
+    "defaultMessage": "Show gross prices to customers in the storefront"
+  },
+  {
+    "id": "src.taxes.components.TaxConfiguration.2654711891",
+    "defaultMessage": "Charge taxes on shipping rates"
+  },
+  {
+    "id": "src.taxes.components.TaxConfiguration.3375540052",
+    "description": "button",
+    "defaultMessage": "Fetch taxes"
+  }
+]

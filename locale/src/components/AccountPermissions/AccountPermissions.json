@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.components.AccountPermissions.2690176844",
+    "description": "dialog header",
+    "defaultMessage": "Permissions"
+  },
+  {
+    "id": "src.components.AccountPermissions.3639008725",
+    "defaultMessage": "Expand or restrict user's permissions to access certain part of saleor system."
+  },
+  {
+    "id": "src.components.AccountPermissions.1848599267",
+    "description": "checkbox label",
+    "defaultMessage": "User has full access to the store"
+  }
+]

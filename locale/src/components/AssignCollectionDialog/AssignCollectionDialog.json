@@ -1,0 +1,20 @@
+[
+  {
+    "id": "src.components.AssignCollectionDialog.3992923611",
+    "description": "dialog header",
+    "defaultMessage": "Assign Collection"
+  },
+  {
+    "id": "src.components.AssignCollectionDialog.4057224233",
+    "defaultMessage": "Search Collection"
+  },
+  {
+    "id": "src.components.AssignCollectionDialog.2605414502",
+    "defaultMessage": "Search by collection name, etc..."
+  },
+  {
+    "id": "src.components.AssignCollectionDialog.1035511604",
+    "description": "button",
+    "defaultMessage": "Assign collections"
+  }
+]

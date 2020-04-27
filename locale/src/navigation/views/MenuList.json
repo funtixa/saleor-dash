@@ -1,0 +1,28 @@
+[
+  {
+    "id": "menuListCreatedMenu",
+    "defaultMessage": "Created menu"
+  },
+  {
+    "id": "menuListDeletedMenu",
+    "defaultMessage": "Deleted menu"
+  },
+  {
+    "id": "menuListDeleteMenuHeader",
+    "description": "dialog header",
+    "defaultMessage": "Delete Menu"
+  },
+  {
+    "id": "menuListDeleteMenuContent",
+    "defaultMessage": "Are you sure you want to delete {menuName}?"
+  },
+  {
+    "id": "menuListDeleteMenusHeader",
+    "description": "dialog header",
+    "defaultMessage": "Delete Menus"
+  },
+  {
+    "id": "menuListDeleteMenusContent",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this menu} other{{displayQuantity} menus}}?"
+  }
+]

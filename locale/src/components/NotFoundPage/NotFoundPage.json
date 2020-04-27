@@ -1,0 +1,19 @@
+[
+  {
+    "id": "src.components.NotFoundPage.2736139139",
+    "defaultMessage": "Ooops!..."
+  },
+  {
+    "id": "src.components.NotFoundPage.4036415297",
+    "defaultMessage": "Something's missing"
+  },
+  {
+    "id": "src.components.NotFoundPage.4205980614",
+    "defaultMessage": "Sorry, the page was not found"
+  },
+  {
+    "id": "src.components.NotFoundPage.678743710",
+    "description": "button",
+    "defaultMessage": "Go back to dashboard"
+  }
+]

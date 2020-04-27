@@ -1,0 +1,24 @@
+[
+  {
+    "id": "src.components.VisibilityCard.1459686496",
+    "description": "section header",
+    "defaultMessage": "Visibility"
+  },
+  {
+    "id": "src.components.VisibilityCard.643174786",
+    "defaultMessage": "Visible"
+  },
+  {
+    "id": "src.components.VisibilityCard.77815154",
+    "defaultMessage": "Hidden"
+  },
+  {
+    "id": "src.components.VisibilityCard.292404896",
+    "defaultMessage": "Set publication date"
+  },
+  {
+    "id": "src.components.VisibilityCard.2060790769",
+    "description": "publish on date",
+    "defaultMessage": "Publish on"
+  }
+]

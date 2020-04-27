@@ -1,0 +1,26 @@
+[
+  {
+    "id": "src.categories.components.CategoryUpdatePage.2563994280",
+    "defaultMessage": "Add search engine title and description to make this category easier to find"
+  },
+  {
+    "id": "src.categories.components.CategoryUpdatePage.2159874182",
+    "description": "number of subcategories in category",
+    "defaultMessage": "Subcategories"
+  },
+  {
+    "id": "src.categories.components.CategoryUpdatePage.2968663655",
+    "description": "number of products in category",
+    "defaultMessage": "Products"
+  },
+  {
+    "id": "src.categories.components.CategoryUpdatePage.3229914152",
+    "description": "section header",
+    "defaultMessage": "All Subcategories"
+  },
+  {
+    "id": "src.categories.components.CategoryUpdatePage.770296100",
+    "description": "button",
+    "defaultMessage": "Create subcategory"
+  }
+]

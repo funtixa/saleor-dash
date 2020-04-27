@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.services.components.ServiceList.636461959",
+    "description": "service name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.services.components.ServiceList.31853942",
+    "description": "account status",
+    "defaultMessage": "active"
+  },
+  {
+    "id": "src.services.components.ServiceList.3239722049",
+    "description": "account status",
+    "defaultMessage": "inactive"
+  },
+  {
+    "id": "src.services.components.ServiceList.1342308051",
+    "defaultMessage": "No service accounts found"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "src.orders.components.OrderUnfulfilledItems.2886647373",
+    "description": "section header",
+    "defaultMessage": "Unfulfilled ({quantity})"
+  },
+  {
+    "id": "src.orders.components.OrderUnfulfilledItems.1895667608",
+    "description": "product name",
+    "defaultMessage": "Product"
+  },
+  {
+    "id": "src.orders.components.OrderUnfulfilledItems.2796503714",
+    "description": "ordered products",
+    "defaultMessage": "Quantity"
+  },
+  {
+    "id": "src.orders.components.OrderUnfulfilledItems.1134347598",
+    "description": "product unit price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.orders.components.OrderUnfulfilledItems.878013594",
+    "description": "order line total price",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "src.orders.components.OrderUnfulfilledItems.2095687440",
+    "description": "button",
+    "defaultMessage": "Fulfill"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "src.staff.components.StaffAddMemberDialog.1481503299",
+    "description": "dialog header",
+    "defaultMessage": "Invite Staff Member"
+  },
+  {
+    "id": "src.staff.components.StaffAddMemberDialog.2690176844",
+    "defaultMessage": "Permissions"
+  },
+  {
+    "id": "src.staff.components.StaffAddMemberDialog.351138560",
+    "defaultMessage": "Expand or restrict user’s permissions to access certain part of saleor system."
+  },
+  {
+    "id": "src.staff.components.StaffAddMemberDialog.1570990296",
+    "defaultMessage": "User has full access"
+  },
+  {
+    "id": "src.staff.components.StaffAddMemberDialog.449055697",
+    "description": "button",
+    "defaultMessage": "Send invite"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.1009678918",
+    "description": "header",
+    "defaultMessage": "You will create variants below"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.998917294",
+    "description": "variant name",
+    "defaultMessage": "Variant"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.1134347598",
+    "description": "variant price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.3490038570",
+    "description": "variant stock amount",
+    "defaultMessage": "Inventory"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.693960049",
+    "defaultMessage": "SKU"
+  }
+]

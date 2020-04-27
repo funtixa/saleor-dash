@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.productTypes.views.3822478981",
+    "defaultMessage": "Successfully created product type"
+  },
+  {
+    "id": "productTypeCreateHeader",
+    "description": "window title",
+    "defaultMessage": "Create Product Type"
+  },
+  {
+    "id": "productTypeCreatePageHeader",
+    "description": "header",
+    "defaultMessage": "Create Product Type"
+  }
+]

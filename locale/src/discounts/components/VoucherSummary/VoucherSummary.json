@@ -1,0 +1,27 @@
+[
+  {
+    "id": "src.discounts.components.VoucherSummary.78726751",
+    "description": "voucher code",
+    "defaultMessage": "Code"
+  },
+  {
+    "id": "src.discounts.components.VoucherSummary.2735425668",
+    "description": "voucher",
+    "defaultMessage": "Applies to"
+  },
+  {
+    "id": "src.discounts.components.VoucherSummary.1148029984",
+    "description": "voucher value",
+    "defaultMessage": "Value"
+  },
+  {
+    "id": "src.discounts.components.VoucherSummary.1836123577",
+    "description": "voucher value requirement",
+    "defaultMessage": "Min. Order Value"
+  },
+  {
+    "id": "src.discounts.components.VoucherSummary.3751756157",
+    "description": "voucher value requirement",
+    "defaultMessage": "Usage Limit"
+  }
+]

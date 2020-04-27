@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.collections.components.CollectionDetailsPage.946315389",
+    "defaultMessage": "Add search engine title and description to make this collection easier to find"
+  },
+  {
+    "id": "src.collections.components.CollectionDetailsPage.2001551496",
+    "description": "collection",
+    "defaultMessage": "will be visible from {date}"
+  },
+  {
+    "id": "src.collections.components.CollectionDetailsPage.1815688500",
+    "description": "collection",
+    "defaultMessage": "since {date}"
+  },
+  {
+    "id": "src.collections.components.CollectionDetailsPage.2906897537",
+    "description": "switch button",
+    "defaultMessage": "Feature on Homepage"
+  }
+]

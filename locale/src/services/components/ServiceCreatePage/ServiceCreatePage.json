@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.services.components.ServiceCreatePage.248507553",
+    "description": "header",
+    "defaultMessage": "Create New Account"
+  },
+  {
+    "id": "src.services.components.ServiceCreatePage.27827485",
+    "description": "checkbox label",
+    "defaultMessage": "Service account is active"
+  }
+]

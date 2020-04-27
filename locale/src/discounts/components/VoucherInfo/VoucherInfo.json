@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.discounts.components.VoucherInfo.1944363009",
+    "description": "voucher code, button",
+    "defaultMessage": "Generate Code"
+  },
+  {
+    "id": "src.discounts.components.VoucherInfo.1262795626",
+    "defaultMessage": "Discount Code"
+  }
+]

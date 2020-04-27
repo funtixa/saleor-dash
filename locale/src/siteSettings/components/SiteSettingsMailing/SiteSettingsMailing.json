@@ -1,0 +1,41 @@
+[
+  {
+    "id": "src.siteSettings.components.SiteSettingsMailing.280712237",
+    "description": "section header",
+    "defaultMessage": "Mailing Configuration"
+  },
+  {
+    "id": "siteSettingsMailingHelperText",
+    "description": "helper text",
+    "defaultMessage": "Mailing Configuration"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsMailing.297689661",
+    "defaultMessage": "Configurate your email address from which all automatic emails will be sent to your customers."
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsMailing.1124962330",
+    "defaultMessage": "Mailing email address"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsMailing.70179174",
+    "defaultMessage": "Mailing email sender"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsMailing.1672275992",
+    "description": "email sender",
+    "defaultMessage": "This will be visible as \"from\" name"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsMailing.3211348653",
+    "defaultMessage": "Customer password reset URL"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsMailing.50742153",
+    "defaultMessage": "URL address"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsMailing.3447841451",
+    "defaultMessage": "This URL will be used as a main URL for password resets. It will be sent via email."
+  }
+]

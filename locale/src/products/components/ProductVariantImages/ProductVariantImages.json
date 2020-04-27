@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.products.components.ProductVariantImages.3240888698",
+    "description": "section header",
+    "defaultMessage": "Images"
+  },
+  {
+    "id": "src.products.components.ProductVariantImages.989683980",
+    "description": "button",
+    "defaultMessage": "Choose photos"
+  },
+  {
+    "id": "src.products.components.ProductVariantImages.3449133076",
+    "defaultMessage": "Select a specific variant image from product images"
+  }
+]

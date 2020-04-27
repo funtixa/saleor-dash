@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.productTypes.components.ProductTypeBulkAttributeUnassignDialog.766918870",
+    "description": "dialog header",
+    "defaultMessage": "Unassign Attribute from Product Type"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeBulkAttributeUnassignDialog.4125919919",
+    "description": "unassign multiple attributes from product type",
+    "defaultMessage": "Are you sure you want to unassign {counter,plural,one{this attribute} other{{displayQuantity} attributes}} from {productTypeName}?"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "src.translations.components.TranslationsEntitiesList.636461959",
+    "description": "entity (product, collection, shipping method) name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesList.49462429",
+    "defaultMessage": "Completed Translations"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesList.1136143456",
+    "description": "translation progress",
+    "defaultMessage": "{current} of {max}"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesList.4176487406",
+    "defaultMessage": "No translatable entities found"
+  }
+]

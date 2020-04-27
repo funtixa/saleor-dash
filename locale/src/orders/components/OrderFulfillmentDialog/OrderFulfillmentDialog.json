@@ -1,0 +1,26 @@
+[
+  {
+    "id": "src.orders.components.OrderFulfillmentDialog.3928354289",
+    "description": "dialog header",
+    "defaultMessage": "Fulfill Oroducts"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillmentDialog.4046223826",
+    "defaultMessage": "Product name"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillmentDialog.693960049",
+    "description": "product's sku",
+    "defaultMessage": "SKU"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillmentDialog.2796503714",
+    "description": "quantity of fulfilled products",
+    "defaultMessage": "Quantity"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillmentDialog.3252172269",
+    "description": "fulfillment group",
+    "defaultMessage": "Tracking number"
+  }
+]

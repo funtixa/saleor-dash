@@ -1,0 +1,22 @@
+[
+  {
+    "id": "src.products.components.ProductImagePage.2546267317",
+    "description": "header",
+    "defaultMessage": "Edit Photo"
+  },
+  {
+    "id": "src.products.components.ProductImagePage.3822382625",
+    "description": "section header",
+    "defaultMessage": "Photo Information"
+  },
+  {
+    "id": "src.products.components.ProductImagePage.1905082483",
+    "description": "field is optional",
+    "defaultMessage": "Optional"
+  },
+  {
+    "id": "src.products.components.ProductImagePage.367472710",
+    "description": "section header",
+    "defaultMessage": "Photo View"
+  }
+]

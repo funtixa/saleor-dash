@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.orders.components.OrderDraftCancelDialog.1961675716",
+    "description": "dialog header",
+    "defaultMessage": "Delete Daft Order"
+  },
+  {
+    "id": "src.orders.components.OrderDraftCancelDialog.36681973",
+    "defaultMessage": "Are you sure you want to delete draft #{number}?"
+  }
+]

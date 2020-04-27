@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src.orders.components.OrderDraftDetailsProducts.1895667608",
+    "defaultMessage": "Product"
+  },
+  {
+    "id": "src.orders.components.OrderDraftDetailsProducts.2796503714",
+    "description": "quantity of ordered products",
+    "defaultMessage": "Quantity"
+  },
+  {
+    "id": "src.orders.components.OrderDraftDetailsProducts.1134347598",
+    "description": "price or ordered products",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.orders.components.OrderDraftDetailsProducts.878013594",
+    "description": "total price of ordered products",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "src.orders.components.OrderDraftDetailsProducts.546865199",
+    "defaultMessage": "No Products added to Order"
+  }
+]

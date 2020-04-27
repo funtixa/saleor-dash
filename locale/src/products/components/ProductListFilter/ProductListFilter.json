@@ -1,0 +1,76 @@
+[
+  {
+    "id": "src.products.components.ProductListFilter.1438173764",
+    "description": "product status is set as",
+    "defaultMessage": "is set as"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.1756106276",
+    "description": "product status",
+    "defaultMessage": "Status"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.643174786",
+    "description": "product is visible",
+    "defaultMessage": "Visible"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.77815154",
+    "description": "product is hidden",
+    "defaultMessage": "Hidden"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.1459686496",
+    "description": "product visibility",
+    "defaultMessage": "Visibility"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.3645081351",
+    "defaultMessage": "Stock quantity"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.2157131639",
+    "description": "product status",
+    "defaultMessage": "Available"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.1640493122",
+    "description": "product status",
+    "defaultMessage": "Out Of Stock"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.3841616483",
+    "description": "product stock",
+    "defaultMessage": "Stock"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.3477667254",
+    "description": "product price",
+    "defaultMessage": "equals"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.2844426531",
+    "defaultMessage": "Specific Price"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.2545228781",
+    "defaultMessage": "Range"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.1134347598",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.821159718",
+    "description": "tab name",
+    "defaultMessage": "All Products"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.1421689426",
+    "defaultMessage": "Select all products where:"
+  },
+  {
+    "id": "src.products.components.ProductListFilter.3550330425",
+    "defaultMessage": "Search Products..."
+  }
+]

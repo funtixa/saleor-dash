@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.staff.components.StaffListPage.797461521",
+    "description": "button",
+    "defaultMessage": "Invite staff member"
+  },
+  {
+    "id": "src.staff.components.StaffListPage.2852350932",
+    "description": "tab name",
+    "defaultMessage": "All Staff Members"
+  },
+  {
+    "id": "src.staff.components.StaffListPage.61043583",
+    "defaultMessage": "Search Staff Member"
+  }
+]

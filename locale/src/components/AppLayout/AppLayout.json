@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.components.AppLayout.248888005",
+    "description": "button",
+    "defaultMessage": "Account Settings"
+  },
+  {
+    "id": "src.components.AppLayout.21332146",
+    "description": "button",
+    "defaultMessage": "Log out"
+  }
+]

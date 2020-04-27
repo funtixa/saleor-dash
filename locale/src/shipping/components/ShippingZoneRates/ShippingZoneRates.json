@@ -1,0 +1,41 @@
+[
+  {
+    "id": "src.shipping.components.ShippingZoneRates.2542194565",
+    "description": "price based shipping methods, section header",
+    "defaultMessage": "Price Based Rates"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRates.383202459",
+    "description": "weight based shipping methods, section header",
+    "defaultMessage": "Weight Based Rates"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRates.16061680",
+    "description": "button",
+    "defaultMessage": "Create rate"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRates.636461959",
+    "description": "shipping method name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRates.1923873558",
+    "description": "shipping method price range",
+    "defaultMessage": "Value Range"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRates.2600677138",
+    "description": "shipping method weight range",
+    "defaultMessage": "Weight Range"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRates.1134347598",
+    "description": "shipping method price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRates.1961493435",
+    "defaultMessage": "No shipping rates found"
+  }
+]

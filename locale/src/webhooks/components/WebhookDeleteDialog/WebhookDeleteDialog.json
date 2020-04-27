@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.webhooks.components.WebhookDeleteDialog.3514087611",
+    "description": "dialog header",
+    "defaultMessage": "Delete Webhook"
+  },
+  {
+    "id": "src.webhooks.components.WebhookDeleteDialog.2297471173",
+    "description": "delete webhook",
+    "defaultMessage": "Are you sure you want to delete {name}?"
+  }
+]

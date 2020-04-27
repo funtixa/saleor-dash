@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src.orders.components.OrderDraftDetailsSummary.781550514",
+    "description": "subtotal price or an order",
+    "defaultMessage": "Subtotal"
+  },
+  {
+    "id": "src.orders.components.OrderDraftDetailsSummary.2429341469",
+    "description": "button",
+    "defaultMessage": "Add shipping carrier"
+  },
+  {
+    "id": "src.orders.components.OrderDraftDetailsSummary.3594442178",
+    "defaultMessage": "No applicable shipping carriers"
+  },
+  {
+    "id": "src.orders.components.OrderDraftDetailsSummary.3202709354",
+    "defaultMessage": "Taxes (VAT included)"
+  },
+  {
+    "id": "src.orders.components.OrderDraftDetailsSummary.878013594",
+    "description": "total price of an order",
+    "defaultMessage": "Total"
+  }
+]

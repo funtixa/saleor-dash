@@ -1,0 +1,10 @@
+[
+  {
+    "id": "src.shipping.components.ShippingWeightUnitForm.549146363",
+    "defaultMessage": "Shipping Weight Unit"
+  },
+  {
+    "id": "src.shipping.components.ShippingWeightUnitForm.2863708228",
+    "defaultMessage": "This unit will be used as default shipping weight"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.products.components.ProductVariantAttributes.1536841622",
+    "description": "product attribute error",
+    "defaultMessage": "All attributes should have value"
+  },
+  {
+    "id": "src.products.components.ProductVariantAttributes.258966189",
+    "description": "product attribute error",
+    "defaultMessage": "This variant already exists"
+  }
+]

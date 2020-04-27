@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.pages.components.PageDetailsPage.1068617485",
+    "description": "page header",
+    "defaultMessage": "Create Page"
+  },
+  {
+    "id": "src.pages.components.PageDetailsPage.1996767833",
+    "defaultMessage": "Add search engine title and description to make this page easier to find"
+  },
+  {
+    "id": "src.pages.components.PageDetailsPage.2001551496",
+    "description": "page",
+    "defaultMessage": "will be visible from {date}"
+  },
+  {
+    "id": "src.pages.components.PageDetailsPage.1815688500",
+    "description": "page",
+    "defaultMessage": "since {date}"
+  }
+]

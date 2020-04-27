@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src.discounts.components.DiscountCategories.1681512341",
+    "description": "section header",
+    "defaultMessage": "Eligible Categories"
+  },
+  {
+    "id": "src.discounts.components.DiscountCategories.3973677075",
+    "description": "button",
+    "defaultMessage": "Assign categories"
+  },
+  {
+    "id": "src.discounts.components.DiscountCategories.1567318211",
+    "defaultMessage": "Category name"
+  },
+  {
+    "id": "src.discounts.components.DiscountCategories.2968663655",
+    "description": "number of products",
+    "defaultMessage": "Products"
+  },
+  {
+    "id": "src.discounts.components.DiscountCategories.2054128296",
+    "defaultMessage": "No categories found"
+  }
+]

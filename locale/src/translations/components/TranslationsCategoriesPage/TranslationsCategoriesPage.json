@@ -1,0 +1,22 @@
+[
+  {
+    "id": "src.translations.components.TranslationsCategoriesPage.2043581404",
+    "defaultMessage": "Translation Category \"{categoryNane}\" - {languageCode}"
+  },
+  {
+    "id": "src.translations.components.TranslationsCategoriesPage.1214235329",
+    "defaultMessage": "Category Name"
+  },
+  {
+    "id": "src.translations.components.TranslationsCategoriesPage.3468022343",
+    "defaultMessage": "Search Engine Preview"
+  },
+  {
+    "id": "src.translations.components.TranslationsCategoriesPage.2496919463",
+    "defaultMessage": "Search Engine Title"
+  },
+  {
+    "id": "src.translations.components.TranslationsCategoriesPage.1406947243",
+    "defaultMessage": "Search Engine Description"
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.115822814",
+    "defaultMessage": "No billing address"
+  },
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.2430492151",
+    "defaultMessage": "No shipping address"
+  },
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.2968256006",
+    "defaultMessage": "Some products require shipping, but no method provided"
+  },
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.1297434244",
+    "defaultMessage": "No user information"
+  },
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.2824936338",
+    "defaultMessage": "Shipping method provided, but no product requires it"
+  },
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.1161061962",
+    "description": "dialog header",
+    "defaultMessage": "Finalize Draft Order"
+  },
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.678764806",
+    "description": "button",
+    "defaultMessage": "Finalize anyway"
+  },
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.2725265632",
+    "description": "button",
+    "defaultMessage": "Finalize"
+  },
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.1472924390",
+    "defaultMessage": "There are missing or incorrect informations about this order:"
+  },
+  {
+    "id": "src.orders.components.OrderDraftFinalizeDialog.1489195029",
+    "defaultMessage": "Are you sure you want to finalize draft #{number}?"
+  }
+]

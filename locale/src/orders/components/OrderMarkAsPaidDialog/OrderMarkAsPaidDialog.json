@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.orders.components.OrderMarkAsPaidDialog.4196844912",
+    "description": "dialog header",
+    "defaultMessage": "Mark Order as Paid"
+  },
+  {
+    "id": "src.orders.components.OrderMarkAsPaidDialog.2823153104",
+    "defaultMessage": "Are you sure you want to mark this order as paid?"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.products.views.2899821092",
+    "defaultMessage": "Product created"
+  },
+  {
+    "id": "src.products.views.3989383405",
+    "description": "window title",
+    "defaultMessage": "Create variant"
+  },
+  {
+    "id": "src.products.views.2362587265",
+    "description": "header",
+    "defaultMessage": "Create Variant"
+  }
+]

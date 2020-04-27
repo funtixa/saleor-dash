@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.attributes.components.AttributeValueEditDialog.1841790893",
+    "description": "add attribute value",
+    "defaultMessage": "Add Value"
+  },
+  {
+    "id": "src.attributes.components.AttributeValueEditDialog.1395607402",
+    "description": "edit attribute value",
+    "defaultMessage": "Edit Value"
+  },
+  {
+    "id": "src.attributes.components.AttributeValueEditDialog.636461959",
+    "description": "attribute name",
+    "defaultMessage": "Name"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "OrderCancelDialogHeader",
+    "description": "dialog header",
+    "defaultMessage": "Cancel Order"
+  },
+  {
+    "id": "src.orders.components.OrderCancelDialog.3981375672",
+    "defaultMessage": "Are you sure you want to cancel order #{orderNumber}?"
+  },
+  {
+    "id": "src.orders.components.OrderCancelDialog.944150063",
+    "description": "switch button",
+    "defaultMessage": "Release all stock allocated to this order"
+  },
+  {
+    "id": "OrderCancelDialogButton",
+    "description": "button",
+    "defaultMessage": "Cancel Order"
+  }
+]

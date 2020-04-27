@@ -1,0 +1,22 @@
+[
+  {
+    "id": "src.products.components.ProductListPage.3640454975",
+    "description": "product status",
+    "defaultMessage": "Published"
+  },
+  {
+    "id": "src.products.components.ProductListPage.1134347598",
+    "description": "product price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.products.components.ProductListPage.1952810469",
+    "description": "product type",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "src.products.components.ProductListPage.1542417144",
+    "description": "button",
+    "defaultMessage": "Create Product"
+  }
+]

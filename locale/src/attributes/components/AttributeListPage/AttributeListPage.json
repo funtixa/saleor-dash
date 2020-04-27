@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.attributes.components.AttributeListPage.3824684885",
+    "description": "button",
+    "defaultMessage": "Create attribute"
+  },
+  {
+    "id": "src.attributes.components.AttributeListPage.2417065806",
+    "description": "tab name",
+    "defaultMessage": "All Attributes"
+  },
+  {
+    "id": "src.attributes.components.AttributeListPage.3916653510",
+    "defaultMessage": "Search Attribute"
+  }
+]

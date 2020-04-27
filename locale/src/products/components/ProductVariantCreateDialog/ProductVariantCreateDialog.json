@@ -1,0 +1,27 @@
+[
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.3922579741",
+    "description": "dialog header",
+    "defaultMessage": "Assign Attribute"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.3528672691",
+    "description": "button",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.904693740",
+    "description": "previous step, button",
+    "defaultMessage": "Previous"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.3673120330",
+    "description": "button",
+    "defaultMessage": "Next"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.4120989039",
+    "description": "create multiple variants, button",
+    "defaultMessage": "Create"
+  }
+]

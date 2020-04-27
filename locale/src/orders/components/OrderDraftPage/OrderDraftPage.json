@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.orders.components.OrderDraftPage.1854613983",
+    "description": "button",
+    "defaultMessage": "Cancel order"
+  },
+  {
+    "id": "src.orders.components.OrderDraftPage.2725265632",
+    "description": "button",
+    "defaultMessage": "Finalize"
+  }
+]

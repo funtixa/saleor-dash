@@ -1,0 +1,56 @@
+[
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.1134347598",
+    "description": "variant price, header",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.2783195765",
+    "defaultMessage": "Apply single price to all SKUs"
+  },
+  {
+    "id": "productVariantCreatePricesPriceInputLabel",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.3570949907",
+    "defaultMessage": "Apply unique prices by attribute to each SKU"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.2670525734",
+    "description": "variant attribute",
+    "defaultMessage": "Choose attribute"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.168343345",
+    "description": "variant attribute",
+    "defaultMessage": "Attribute"
+  },
+  {
+    "id": "productVariantCreatePricesSetPricePlaceholder",
+    "description": "variant price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.3841616483",
+    "description": "variant stock, header",
+    "defaultMessage": "Stock"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.3601538615",
+    "defaultMessage": "Apply single stock to all SKUs"
+  },
+  {
+    "id": "productVariantCreatePricesStockInputLabel",
+    "defaultMessage": "Stock"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.3387090508",
+    "defaultMessage": "Apply unique stock by attribute to each SKU"
+  },
+  {
+    "id": "productVariantCreatePricesSetStockPlaceholder",
+    "description": "variant stock",
+    "defaultMessage": "Stock"
+  }
+]

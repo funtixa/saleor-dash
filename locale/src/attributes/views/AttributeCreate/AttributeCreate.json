@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.attributes.views.AttributeCreate.11941964",
+    "defaultMessage": "Successfully created attribute"
+  },
+  {
+    "id": "src.attributes.views.AttributeCreate.2348058468",
+    "description": "attribute value edit error",
+    "defaultMessage": "A value named {name} already exists"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "src.translations.components.TranslationsCollectionsPage.3055443821",
+    "description": "header",
+    "defaultMessage": "Translation Collection \"{collectionName}\" - {languageCode}"
+  },
+  {
+    "id": "src.translations.components.TranslationsCollectionsPage.2759199473",
+    "defaultMessage": "Collection Name"
+  },
+  {
+    "id": "src.translations.components.TranslationsCollectionsPage.3468022343",
+    "defaultMessage": "Search Engine Preview"
+  },
+  {
+    "id": "src.translations.components.TranslationsCollectionsPage.2496919463",
+    "defaultMessage": "Search Engine Title"
+  },
+  {
+    "id": "src.translations.components.TranslationsCollectionsPage.1406947243",
+    "defaultMessage": "Search Engine Description"
+  }
+]

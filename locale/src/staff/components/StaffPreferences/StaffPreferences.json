@@ -1,0 +1,19 @@
+[
+  {
+    "id": "src.staff.components.StaffPreferences.2340309446",
+    "description": "section header",
+    "defaultMessage": "Preferences"
+  },
+  {
+    "id": "src.staff.components.StaffPreferences.1332294025",
+    "defaultMessage": "Selecting this will change the language of your dashboard"
+  },
+  {
+    "id": "src.staff.components.StaffPreferences.2281358617",
+    "defaultMessage": "Preferred Language"
+  },
+  {
+    "id": "src.staff.components.StaffPreferences.2162129531",
+    "defaultMessage": "Please note, while all currency and date adjustments are complete, language translations are at varying degrees of completion."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.discounts.components.SaleSummary.636461959",
+    "description": "sale name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.discounts.components.SaleSummary.1148029984",
+    "description": "sale value",
+    "defaultMessage": "Value"
+  }
+]

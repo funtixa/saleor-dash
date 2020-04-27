@@ -1,0 +1,11 @@
+[
+  {
+    "id": "menuCreateDialogHeader",
+    "description": "dialog header",
+    "defaultMessage": "Create Menu"
+  },
+  {
+    "id": "menuCreateDialogMenuTitleLabel",
+    "defaultMessage": "Menu Title"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": "src.webhooks.components.WebhookEvents.3053363669",
+    "description": "event",
+    "defaultMessage": "Any events"
+  },
+  {
+    "id": "src.webhooks.components.WebhookEvents.3970234993",
+    "description": "event",
+    "defaultMessage": "Customer created"
+  },
+  {
+    "id": "src.webhooks.components.WebhookEvents.3617444329",
+    "description": "event",
+    "defaultMessage": "Order cancelled"
+  },
+  {
+    "id": "src.webhooks.components.WebhookEvents.3400883706",
+    "description": "event",
+    "defaultMessage": "Order created"
+  },
+  {
+    "id": "src.webhooks.components.WebhookEvents.3345061702",
+    "description": "event",
+    "defaultMessage": "Order fully paid"
+  },
+  {
+    "id": "src.webhooks.components.WebhookEvents.1606361075",
+    "description": "event",
+    "defaultMessage": "Order updated"
+  },
+  {
+    "id": "src.webhooks.components.WebhookEvents.2899821092",
+    "description": "event",
+    "defaultMessage": "Product created"
+  },
+  {
+    "id": "src.webhooks.components.WebhookEvents.1436364351",
+    "description": "section header",
+    "defaultMessage": "Events"
+  },
+  {
+    "id": "src.webhooks.components.WebhookEvents.3051538277",
+    "description": "webhook events",
+    "defaultMessage": "Expand or restrict webhooks permissions to register certain events in Saleor system."
+  }
+]

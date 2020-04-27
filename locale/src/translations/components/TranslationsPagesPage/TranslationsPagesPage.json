@@ -1,0 +1,28 @@
+[
+  {
+    "id": "src.translations.components.TranslationsPagesPage.2806429775",
+    "description": "header",
+    "defaultMessage": "Translation Page \"{pageName}\" - {languageCode}"
+  },
+  {
+    "id": "src.translations.components.TranslationsPagesPage.432157284",
+    "defaultMessage": "Page Title"
+  },
+  {
+    "id": "src.translations.components.TranslationsPagesPage.1116746286",
+    "description": "page content",
+    "defaultMessage": "Content"
+  },
+  {
+    "id": "src.translations.components.TranslationsPagesPage.3468022343",
+    "defaultMessage": "Search Engine Preview"
+  },
+  {
+    "id": "src.translations.components.TranslationsPagesPage.2496919463",
+    "defaultMessage": "Search Engine Title"
+  },
+  {
+    "id": "src.translations.components.TranslationsPagesPage.1406947243",
+    "defaultMessage": "Search Engine Description"
+  }
+]

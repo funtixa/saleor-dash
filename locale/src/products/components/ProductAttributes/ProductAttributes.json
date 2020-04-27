@@ -1,0 +1,22 @@
+[
+  {
+    "id": "src.products.components.ProductAttributes.4153345096",
+    "description": "product attributes, section header",
+    "defaultMessage": "Attributes"
+  },
+  {
+    "id": "src.products.components.ProductAttributes.1071548120",
+    "description": "number of product attributes",
+    "defaultMessage": "{number} Attributes"
+  },
+  {
+    "id": "src.products.components.ProductAttributes.1148029984",
+    "description": "attribute value",
+    "defaultMessage": "Value"
+  },
+  {
+    "id": "src.products.components.ProductAttributes.1207761269",
+    "description": "attribute values",
+    "defaultMessage": "Values"
+  }
+]

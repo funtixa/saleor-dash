@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.customers.components.CustomerDetails.2200102325",
+    "description": "section subheader",
+    "defaultMessage": "Customer since: {date}"
+  },
+  {
+    "id": "src.customers.components.CustomerDetails.2968565128",
+    "description": "check to mark this account as active",
+    "defaultMessage": "User account active"
+  },
+  {
+    "id": "src.customers.components.CustomerDetails.577013340",
+    "description": "note about customer",
+    "defaultMessage": "Note"
+  }
+]

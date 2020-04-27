@@ -1,0 +1,64 @@
+[
+  {
+    "id": "src.orders.components.OrderListFilter.3053702458",
+    "defaultMessage": "Last 7 Days"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.714411029",
+    "defaultMessage": "Last 30 Days"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.2292505663",
+    "defaultMessage": "Last Year"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.3477667254",
+    "defaultMessage": "equals"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.789263812",
+    "defaultMessage": "Specific Date"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.2545228781",
+    "defaultMessage": "Range"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.4205493358",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.1438173764",
+    "description": "date is set as",
+    "defaultMessage": "is set as"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.1756106276",
+    "description": "order fulfillment status",
+    "defaultMessage": "Status"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.1712863026",
+    "description": "order fulfillment status",
+    "defaultMessage": "Fulfilled"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.210276526",
+    "description": "order fulfillment status",
+    "defaultMessage": "Partially Fulfilled"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.1751787272",
+    "description": "order fulfillment status",
+    "defaultMessage": "Unfulfilled"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.2415661583",
+    "description": "order status",
+    "defaultMessage": "Ready to Capture"
+  },
+  {
+    "id": "src.orders.components.OrderListFilter.2222765704",
+    "defaultMessage": "Order Status"
+  }
+]

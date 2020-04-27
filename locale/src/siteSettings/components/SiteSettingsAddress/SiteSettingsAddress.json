@@ -1,0 +1,39 @@
+[
+  {
+    "id": "src.siteSettings.components.SiteSettingsAddress.229184360",
+    "description": "section header",
+    "defaultMessage": "Store Information"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsAddress.3570415321",
+    "defaultMessage": "Company"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsAddress.1363074570",
+    "defaultMessage": "Address line 1"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsAddress.3121963259",
+    "defaultMessage": "Address line 2"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsAddress.253031977",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsAddress.2965971965",
+    "defaultMessage": "ZIP / Postal code"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsAddress.1139500589",
+    "defaultMessage": "Country"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsAddress.944851093",
+    "defaultMessage": "Country area"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsAddress.1271289966",
+    "defaultMessage": "Phone"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.products.components.ProductVariantStock.3841616483",
+    "description": "product variant stock, section header",
+    "defaultMessage": "Stock"
+  },
+  {
+    "id": "src.products.components.ProductVariantStock.3490038570",
+    "description": "product variant stock",
+    "defaultMessage": "Inventory"
+  },
+  {
+    "id": "src.products.components.ProductVariantStock.1680952454",
+    "description": "variant allocated stock",
+    "defaultMessage": "Allocated: {quantity}"
+  },
+  {
+    "id": "src.products.components.ProductVariantStock.2585918415",
+    "defaultMessage": "SKU (Stock Keeping Unit)"
+  }
+]

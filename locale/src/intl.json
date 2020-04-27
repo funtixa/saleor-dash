@@ -1,0 +1,265 @@
+[
+  {
+    "id": "src.availability",
+    "defaultMessage": "Availability"
+  },
+  {
+    "id": "src.catalog",
+    "defaultMessage": "Catalog"
+  },
+  {
+    "id": "src.dashboard",
+    "defaultMessage": "Dashboard"
+  },
+  {
+    "id": "src.description",
+    "defaultMessage": "Description"
+  },
+  {
+    "id": "src.discounts",
+    "defaultMessage": "Discounts"
+  },
+  {
+    "id": "src.drafts",
+    "defaultMessage": "Drafts"
+  },
+  {
+    "id": "src.email",
+    "defaultMessage": "E-mail Address"
+  },
+  {
+    "id": "src.endDate",
+    "defaultMessage": "End Date"
+  },
+  {
+    "id": "src.endHour",
+    "defaultMessage": "End Hour"
+  },
+  {
+    "id": "src.firstName",
+    "defaultMessage": "First Name"
+  },
+  {
+    "id": "src.generalInformations",
+    "defaultMessage": "General Informations"
+  },
+  {
+    "id": "src.lastName",
+    "defaultMessage": "Last Name"
+  },
+  {
+    "id": "src.no",
+    "defaultMessage": "No"
+  },
+  {
+    "id": "src.optionalField",
+    "description": "field is optional",
+    "defaultMessage": "Optional"
+  },
+  {
+    "id": "src.properties",
+    "defaultMessage": "Properties"
+  },
+  {
+    "id": "src.readOnly",
+    "defaultMessage": "Saleor runs in read-only mode. Changes not saved."
+  },
+  {
+    "id": "src.requiredField",
+    "defaultMessage": "This field is required"
+  },
+  {
+    "id": "src.savedChanges",
+    "defaultMessage": "Saved changes"
+  },
+  {
+    "id": "src.somethingWentWrong",
+    "defaultMessage": "Saleor ran into an unexpected problem"
+  },
+  {
+    "id": "src.startDate",
+    "defaultMessage": "Start Date"
+  },
+  {
+    "id": "src.startHour",
+    "defaultMessage": "Start Hour"
+  },
+  {
+    "id": "src.summary",
+    "defaultMessage": "Summary"
+  },
+  {
+    "id": "src.uploadImage",
+    "description": "button",
+    "defaultMessage": "Upload image"
+  },
+  {
+    "id": "src.yes",
+    "defaultMessage": "Yes"
+  },
+  {
+    "id": "src.back",
+    "description": "button",
+    "defaultMessage": "Back"
+  },
+  {
+    "id": "src.cancel",
+    "description": "button",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "src.confirm",
+    "description": "button",
+    "defaultMessage": "Confirm"
+  },
+  {
+    "id": "src.delete",
+    "description": "button",
+    "defaultMessage": "Delete"
+  },
+  {
+    "id": "src.done",
+    "description": "button",
+    "defaultMessage": "Done"
+  },
+  {
+    "id": "src.edit",
+    "description": "button",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "src.manage",
+    "description": "button",
+    "defaultMessage": "Manage"
+  },
+  {
+    "id": "src.remove",
+    "description": "button",
+    "defaultMessage": "Remove"
+  },
+  {
+    "id": "src.save",
+    "description": "button",
+    "defaultMessage": "Save"
+  },
+  {
+    "id": "src.show",
+    "description": "button",
+    "defaultMessage": "Show"
+  },
+  {
+    "id": "src.undo",
+    "description": "button",
+    "defaultMessage": "Undo"
+  },
+  {
+    "id": "src.attributes",
+    "description": "attributes section name",
+    "defaultMessage": "Attributes"
+  },
+  {
+    "id": "src.categories",
+    "description": "categories section name",
+    "defaultMessage": "Categories"
+  },
+  {
+    "id": "src.collections",
+    "description": "collections section name",
+    "defaultMessage": "Collections"
+  },
+  {
+    "id": "src.configuration",
+    "description": "configuration section name",
+    "defaultMessage": "Configuration"
+  },
+  {
+    "id": "src.customers",
+    "description": "customers section name",
+    "defaultMessage": "Customers"
+  },
+  {
+    "id": "src.draftOrders",
+    "description": "draft orders section name",
+    "defaultMessage": "Draft Orders"
+  },
+  {
+    "id": "src.home",
+    "description": "home section name",
+    "defaultMessage": "Home"
+  },
+  {
+    "id": "src.navigation",
+    "description": "navigation section name",
+    "defaultMessage": "Navigation"
+  },
+  {
+    "id": "src.orders",
+    "description": "orders section name",
+    "defaultMessage": "Orders"
+  },
+  {
+    "id": "src.pages",
+    "description": "pages section name",
+    "defaultMessage": "Pages"
+  },
+  {
+    "id": "src.plugins",
+    "description": "plugins section name",
+    "defaultMessage": "Plugins"
+  },
+  {
+    "id": "src.productTypes",
+    "description": "product types section name",
+    "defaultMessage": "Product Types"
+  },
+  {
+    "id": "src.products",
+    "description": "products section name",
+    "defaultMessage": "Products"
+  },
+  {
+    "id": "src.sales",
+    "description": "sales section name",
+    "defaultMessage": "Sales"
+  },
+  {
+    "id": "src.serviceAccounts",
+    "description": "service accounts section name",
+    "defaultMessage": "Service Accounts"
+  },
+  {
+    "id": "src.shipping",
+    "description": "shipping section name",
+    "defaultMessage": "Shipping Methods"
+  },
+  {
+    "id": "src.siteSettings",
+    "description": "site settings section name",
+    "defaultMessage": "Site Settings"
+  },
+  {
+    "id": "src.staff",
+    "description": "staff section name",
+    "defaultMessage": "Staff Members"
+  },
+  {
+    "id": "src.taxes",
+    "description": "taxes section name",
+    "defaultMessage": "Taxes"
+  },
+  {
+    "id": "src.translations",
+    "description": "translations section name",
+    "defaultMessage": "Translations"
+  },
+  {
+    "id": "src.vouchers",
+    "description": "vouchers section name",
+    "defaultMessage": "Vouchers"
+  },
+  {
+    "id": "src.webhooks",
+    "description": "webhooks section name",
+    "defaultMessage": "Webhooks"
+  }
+]

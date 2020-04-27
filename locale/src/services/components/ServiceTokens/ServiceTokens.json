@@ -1,0 +1,30 @@
+[
+  {
+    "id": "src.services.components.ServiceTokens.426959482",
+    "description": "header",
+    "defaultMessage": "Service Account Information"
+  },
+  {
+    "id": "src.services.components.ServiceTokens.3875340101",
+    "description": "button",
+    "defaultMessage": "Create Token"
+  },
+  {
+    "id": "src.services.components.ServiceTokens.4017491013",
+    "defaultMessage": "Token Note"
+  },
+  {
+    "id": "src.services.components.ServiceTokens.2446088470",
+    "description": "service account key",
+    "defaultMessage": "Key"
+  },
+  {
+    "id": "src.services.components.ServiceTokens.4190792473",
+    "description": "table actions",
+    "defaultMessage": "Actions"
+  },
+  {
+    "id": "src.services.components.ServiceTokens.2639089057",
+    "defaultMessage": "No tokens found"
+  }
+]

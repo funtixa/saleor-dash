@@ -1,0 +1,42 @@
+[
+  {
+    "id": "src.products.views.ProductList.2237014112",
+    "description": "unpublish product, button",
+    "defaultMessage": "Unpublish"
+  },
+  {
+    "id": "src.products.views.ProductList.1547167026",
+    "description": "publish product, button",
+    "defaultMessage": "Publish"
+  },
+  {
+    "id": "src.products.views.ProductList.400629795",
+    "description": "dialog header",
+    "defaultMessage": "Delete Products"
+  },
+  {
+    "id": "src.products.views.ProductList.2407131796",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this product} other{{displayQuantity} products}}?"
+  },
+  {
+    "id": "src.products.views.ProductList.2946646245",
+    "description": "dialog header",
+    "defaultMessage": "Publish Products"
+  },
+  {
+    "id": "src.products.views.ProductList.3304235508",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to publish {counter,plural,one{this product} other{{displayQuantity} products}}?"
+  },
+  {
+    "id": "src.products.views.ProductList.3362608461",
+    "description": "dialog header",
+    "defaultMessage": "Unpublish Products"
+  },
+  {
+    "id": "src.products.views.ProductList.3566376461",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to unpublish {counter,plural,one{this product} other{{displayQuantity} products}}?"
+  }
+]

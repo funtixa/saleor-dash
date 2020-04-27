@@ -1,0 +1,76 @@
+[
+  {
+    "id": "src.orders.components.OrderPayment.781550514",
+    "description": "order subtotal price",
+    "defaultMessage": "Subtotal"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.2183023165",
+    "description": "ordered products",
+    "defaultMessage": "{quantity} items"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.3955023266",
+    "defaultMessage": "Taxes"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.1817306106",
+    "description": "vat included in order price",
+    "defaultMessage": "VAT included"
+  },
+  {
+    "id": "orderPaymentVATDoesNotApply",
+    "description": "vat not included in order price",
+    "defaultMessage": "does not apply"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.1325966144",
+    "description": "order shipping method name",
+    "defaultMessage": "Shipping"
+  },
+  {
+    "id": "orderPaymentShippingDoesNotApply",
+    "description": "order does not require shipping",
+    "defaultMessage": "does not apply"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.878013594",
+    "description": "order total price",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.3768782744",
+    "description": "order payment",
+    "defaultMessage": "Preauthorized amount"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.2320183694",
+    "description": "order payment",
+    "defaultMessage": "Captured amount"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.353147224",
+    "description": "order payment",
+    "defaultMessage": "Outstanding Balance"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.4211710217",
+    "description": "capture payment, button",
+    "defaultMessage": "Capture"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.2845258362",
+    "description": "button",
+    "defaultMessage": "Refund"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.2444197639",
+    "description": "void payment, button",
+    "defaultMessage": "Void"
+  },
+  {
+    "id": "src.orders.components.OrderPayment.3500506678",
+    "description": "order, button",
+    "defaultMessage": "Mark as paid"
+  }
+]

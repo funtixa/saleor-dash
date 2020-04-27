@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.discounts.components.VoucherListPage.614836274",
+    "description": "button",
+    "defaultMessage": "Create voucher"
+  },
+  {
+    "id": "src.discounts.components.VoucherListPage.1112241061",
+    "description": "tab name",
+    "defaultMessage": "All Vouchers"
+  },
+  {
+    "id": "src.discounts.components.VoucherListPage.1930485532",
+    "defaultMessage": "Search Voucher"
+  }
+]

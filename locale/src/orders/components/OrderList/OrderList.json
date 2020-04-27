@@ -1,0 +1,34 @@
+[
+  {
+    "id": "src.orders.components.OrderList.2889196282",
+    "defaultMessage": "No. of Order"
+  },
+  {
+    "id": "src.orders.components.OrderList.4205493358",
+    "description": "date when order was placed",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "src.orders.components.OrderList.3426593715",
+    "description": "e-mail or full name",
+    "defaultMessage": "Customer"
+  },
+  {
+    "id": "src.orders.components.OrderList.2743232155",
+    "description": "payment status",
+    "defaultMessage": "Payment"
+  },
+  {
+    "id": "src.orders.components.OrderList.1198046928",
+    "defaultMessage": "Fulfillment status"
+  },
+  {
+    "id": "src.orders.components.OrderList.878013594",
+    "description": "total order price",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "src.orders.components.OrderList.898333473",
+    "defaultMessage": "No orders found"
+  }
+]

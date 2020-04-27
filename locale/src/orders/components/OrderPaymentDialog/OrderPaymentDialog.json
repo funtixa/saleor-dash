@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.orders.components.OrderPaymentDialog.1466130374",
+    "description": "dialog header",
+    "defaultMessage": "Capture Payment"
+  },
+  {
+    "id": "src.orders.components.OrderPaymentDialog.250371749",
+    "description": "dialog header",
+    "defaultMessage": "Refund Payment"
+  },
+  {
+    "id": "src.orders.components.OrderPaymentDialog.75546233",
+    "description": "amount of refunded money",
+    "defaultMessage": "Amount"
+  }
+]

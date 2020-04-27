@@ -1,0 +1,24 @@
+[
+  {
+    "id": "src.orders.components.OrderProductAddDialog.1542417144",
+    "description": "dialog header",
+    "defaultMessage": "Create Product"
+  },
+  {
+    "id": "src.orders.components.OrderProductAddDialog.2850255786",
+    "defaultMessage": "Search Products"
+  },
+  {
+    "id": "src.orders.components.OrderProductAddDialog.2336947364",
+    "defaultMessage": "Search by product name, attribute, product type etc..."
+  },
+  {
+    "id": "src.orders.components.OrderProductAddDialog.2272209368",
+    "description": "variant sku",
+    "defaultMessage": "SKU {sku}"
+  },
+  {
+    "id": "src.orders.components.OrderProductAddDialog.353369701",
+    "defaultMessage": "No products matching given query"
+  }
+]

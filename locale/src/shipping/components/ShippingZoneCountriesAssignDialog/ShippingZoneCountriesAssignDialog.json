@@ -1,0 +1,41 @@
+[
+  {
+    "id": "src.shipping.components.ShippingZoneCountriesAssignDialog.1585396479",
+    "description": "dialog header",
+    "defaultMessage": "Assign Countries"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCountriesAssignDialog.2404264158",
+    "defaultMessage": "Choose countries you want to add to shipping zone from list below"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCountriesAssignDialog.3510295703",
+    "defaultMessage": "Search Countries"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCountriesAssignDialog.2110418881",
+    "defaultMessage": "Search by country name"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCountriesAssignDialog.1440682557",
+    "defaultMessage": "Quick Pick"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCountriesAssignDialog.1003092716",
+    "defaultMessage": "Rest of the World"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCountriesAssignDialog.1818089229",
+    "defaultMessage": "If selected, this will add all of the countries not selected to other shipping zones"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCountriesAssignDialog.2777439857",
+    "description": "country selection",
+    "defaultMessage": "Countries A to Z"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCountriesAssignDialog.2747492886",
+    "description": "button",
+    "defaultMessage": "Assign countries"
+  }
+]

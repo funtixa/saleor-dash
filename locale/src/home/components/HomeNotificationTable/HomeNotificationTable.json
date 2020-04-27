@@ -1,0 +1,26 @@
+[
+  {
+    "id": "homeNotificationTableNoOrders",
+    "defaultMessage": "No orders ready to fulfill"
+  },
+  {
+    "id": "homeNotificationTableOrders",
+    "defaultMessage": "{amount,plural,one{One order} other{{amount} Orders}} are ready to fulfill"
+  },
+  {
+    "id": "homeNotificationsNoPayments",
+    "defaultMessage": "No payments waiting for capture"
+  },
+  {
+    "id": "homeNotificationTablePayments",
+    "defaultMessage": "{amount,plural,one{One payment} other{{amount} Payments}} to capture"
+  },
+  {
+    "id": "homeNotificationsTableNoProducts",
+    "defaultMessage": "No products out of stock"
+  },
+  {
+    "id": "homeNotificationTableProducts",
+    "defaultMessage": "{amount,plural,one{One product} other{{amount} Products}} out of stock"
+  }
+]

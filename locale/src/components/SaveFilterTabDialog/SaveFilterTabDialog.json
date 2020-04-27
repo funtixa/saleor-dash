@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.components.SaveFilterTabDialog.1514415736",
+    "description": "save filter tab, header",
+    "defaultMessage": "Save Custom Search"
+  },
+  {
+    "id": "src.components.SaveFilterTabDialog.1556856943",
+    "description": "save search tab",
+    "defaultMessage": "Search Name"
+  }
+]

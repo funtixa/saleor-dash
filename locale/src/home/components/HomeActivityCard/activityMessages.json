@@ -1,0 +1,14 @@
+[
+  {
+    "id": "src.home.components.HomeActivityCard.draft",
+    "defaultMessage": "Order #{orderId} was placed from draft by {userEmail}"
+  },
+  {
+    "id": "src.home.components.HomeActivityCard.paid",
+    "defaultMessage": "Order #{orderId} was fully paid"
+  },
+  {
+    "id": "src.home.components.HomeActivityCard.placed",
+    "defaultMessage": "Order #{orderId} was placed"
+  }
+]

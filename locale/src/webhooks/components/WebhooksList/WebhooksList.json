@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.webhooks.components.WebhooksList.636461959",
+    "description": "webhook name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.webhooks.components.WebhooksList.2487865635",
+    "description": "webhook service account",
+    "defaultMessage": "Service Account"
+  },
+  {
+    "id": "src.webhooks.components.WebhooksList.4120604650",
+    "description": "user action bar",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "src.webhooks.components.WebhooksList.1153324159",
+    "defaultMessage": "No webhooks found"
+  }
+]

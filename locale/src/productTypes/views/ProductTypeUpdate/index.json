@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.productTypes.views.ProductTypeUpdate.3512959355",
+    "defaultMessage": "Product type deleted"
+  },
+  {
+    "id": "src.productTypes.views.ProductTypeUpdate.870815507",
+    "description": "unassign attribute from product type, button",
+    "defaultMessage": "Unassign"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "src.attributes.components.AttributeValues.224159874",
+    "description": "section header",
+    "defaultMessage": "Attribute Values"
+  },
+  {
+    "id": "src.attributes.components.AttributeValues.351422234",
+    "description": "assign attribute value button",
+    "defaultMessage": "Assign value"
+  },
+  {
+    "id": "src.attributes.components.AttributeValues.1565474525",
+    "description": "attribute values list: slug column header",
+    "defaultMessage": "Admin"
+  },
+  {
+    "id": "src.attributes.components.AttributeValues.1397696159",
+    "description": "attribute values list: name column header",
+    "defaultMessage": "Default Store View"
+  },
+  {
+    "id": "src.attributes.components.AttributeValues.2054206599",
+    "description": "No attribute values found",
+    "defaultMessage": "No values found"
+  }
+]

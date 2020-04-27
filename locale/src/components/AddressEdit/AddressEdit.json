@@ -1,0 +1,34 @@
+[
+  {
+    "id": "src.components.AddressEdit.3570415321",
+    "defaultMessage": "Company"
+  },
+  {
+    "id": "src.components.AddressEdit.1271289966",
+    "defaultMessage": "Phone"
+  },
+  {
+    "id": "src.components.AddressEdit.1363074570",
+    "defaultMessage": "Address line 1"
+  },
+  {
+    "id": "src.components.AddressEdit.3121963259",
+    "defaultMessage": "Address line 2"
+  },
+  {
+    "id": "src.components.AddressEdit.253031977",
+    "defaultMessage": "City"
+  },
+  {
+    "id": "src.components.AddressEdit.2965971965",
+    "defaultMessage": "ZIP / Postal code"
+  },
+  {
+    "id": "src.components.AddressEdit.1139500589",
+    "defaultMessage": "Country"
+  },
+  {
+    "id": "src.components.AddressEdit.944851093",
+    "defaultMessage": "Country area"
+  }
+]

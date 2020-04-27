@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.pages.views.1457312643",
+    "defaultMessage": "Removed page"
+  },
+  {
+    "id": "src.pages.views.3246254285",
+    "description": "dialog header",
+    "defaultMessage": "Delete Page"
+  },
+  {
+    "id": "src.pages.views.754348000",
+    "description": "delete page",
+    "defaultMessage": "Are you sure you want to delete {title}?"
+  }
+]

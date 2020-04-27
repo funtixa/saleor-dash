@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.components.WeightRange.2892071052",
+    "description": "weight",
+    "defaultMessage": "{fromValue} {fromUnit} - {toValue} {toUnit}"
+  },
+  {
+    "id": "src.components.WeightRange.4256193688",
+    "description": "weight",
+    "defaultMessage": "from {value} {unit}"
+  },
+  {
+    "id": "src.components.WeightRange.264731940",
+    "description": "weight",
+    "defaultMessage": "to {value} {unit}"
+  }
+]

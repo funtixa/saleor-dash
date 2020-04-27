@@ -1,0 +1,16 @@
+[
+  {
+    "id": "homeProductsListCardHeader",
+    "description": "header",
+    "defaultMessage": "Top Products"
+  },
+  {
+    "id": "homeProductListCardOrders",
+    "description": "number of ordered products",
+    "defaultMessage": "{amount,plural,one{One ordered} other{{amount} Ordered}}"
+  },
+  {
+    "id": "homeProductsListCardNoProducts",
+    "defaultMessage": "No products found"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "homeHeaderText",
+    "description": "header",
+    "defaultMessage": "Hello there, {userName}"
+  },
+  {
+    "id": "homeHeaderTextCaption",
+    "description": "subheader",
+    "defaultMessage": "Here is some information we gathered about your store"
+  }
+]

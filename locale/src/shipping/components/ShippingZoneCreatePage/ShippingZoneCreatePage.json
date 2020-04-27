@@ -1,0 +1,19 @@
+[
+  {
+    "id": "src.shipping.components.ShippingZoneCreatePage.4049462680",
+    "description": "header",
+    "defaultMessage": "Create New Shipping Zone"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCreatePage.4270729636",
+    "defaultMessage": "This is default shipping zone, which means that it covers all of the countries which are not assigned to other shipping zones"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCreatePage.2364051773",
+    "defaultMessage": "Currently, there are no countries assigned to this shipping zone"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneCreatePage.3109712047",
+    "defaultMessage": "Countries"
+  }
+]

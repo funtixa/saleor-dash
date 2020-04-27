@@ -1,0 +1,22 @@
+[
+  {
+    "id": "src.siteSettings.components.SiteSettingsDetails.2286355060",
+    "defaultMessage": "Name of your store"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsDetails.1008586926",
+    "defaultMessage": "Name of your store is shown on tab in web browser"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsDetails.3808773492",
+    "defaultMessage": "URL of your online store"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsDetails.1987367127",
+    "defaultMessage": "Store Description"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsDetails.529433178",
+    "defaultMessage": "Store description is shown on taskbar after your store name"
+  }
+]

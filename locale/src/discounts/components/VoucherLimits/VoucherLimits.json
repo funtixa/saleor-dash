@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.discounts.components.VoucherLimits.3751756157",
+    "description": "voucher usage limit, header",
+    "defaultMessage": "Usage Limit"
+  },
+  {
+    "id": "src.discounts.components.VoucherLimits.2215544659",
+    "defaultMessage": "Limit number of times this discount can be used in total"
+  },
+  {
+    "id": "src.discounts.components.VoucherLimits.557552777",
+    "description": "voucher",
+    "defaultMessage": "Limit of Uses"
+  },
+  {
+    "id": "src.discounts.components.VoucherLimits.3459612469",
+    "description": "limit voucher",
+    "defaultMessage": "Limit to one use per customer"
+  }
+]

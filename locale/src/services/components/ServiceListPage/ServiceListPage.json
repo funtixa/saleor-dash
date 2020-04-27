@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.services.components.ServiceListPage.624280156",
+    "description": "button",
+    "defaultMessage": "Create account"
+  },
+  {
+    "id": "src.services.components.ServiceListPage.4040605455",
+    "description": "tab name",
+    "defaultMessage": "All Service Accounts"
+  },
+  {
+    "id": "src.services.components.ServiceListPage.1895355592",
+    "defaultMessage": "Search Service Accounts"
+  }
+]

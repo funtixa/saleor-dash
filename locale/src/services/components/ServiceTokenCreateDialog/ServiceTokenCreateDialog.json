@@ -1,0 +1,33 @@
+[
+  {
+    "id": "src.services.components.ServiceTokenCreateDialog.3875340101",
+    "description": "header",
+    "defaultMessage": "Create Token"
+  },
+  {
+    "id": "src.services.components.ServiceTokenCreateDialog.2530792168",
+    "defaultMessage": "Access token is used to authenticate service accounts"
+  },
+  {
+    "id": "src.services.components.ServiceTokenCreateDialog.4017491013",
+    "defaultMessage": "Token Note"
+  },
+  {
+    "id": "src.services.components.ServiceTokenCreateDialog.3009959880",
+    "defaultMessage": "We’ve created your token. Make sure to copy your new personal access token now. You won’t be able to see it again."
+  },
+  {
+    "id": "src.services.components.ServiceTokenCreateDialog.1336855942",
+    "defaultMessage": "Generated Token"
+  },
+  {
+    "id": "src.services.components.ServiceTokenCreateDialog.3406541221",
+    "description": "button",
+    "defaultMessage": "Copy token"
+  },
+  {
+    "id": "src.services.components.ServiceTokenCreateDialog.4120989039",
+    "description": "create service token, button",
+    "defaultMessage": "Create"
+  }
+]

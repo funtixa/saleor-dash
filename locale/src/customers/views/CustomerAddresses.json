@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.customers.views.2657976015",
+    "description": "dialog header",
+    "defaultMessage": "Delete Address"
+  },
+  {
+    "id": "src.customers.views.3689332763",
+    "defaultMessage": "Are you sure you want to delete this address from users address book?"
+  }
+]

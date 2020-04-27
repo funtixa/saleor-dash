@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.attributes.components.AttributeDeleteDialog.1889602489",
+    "description": "dialog title",
+    "defaultMessage": "Delete attribute"
+  },
+  {
+    "id": "src.attributes.components.AttributeDeleteDialog.3738429348",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {attributeName}?"
+  }
+]

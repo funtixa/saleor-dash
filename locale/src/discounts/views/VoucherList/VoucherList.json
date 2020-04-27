@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.discounts.views.VoucherList.367317371",
+    "description": "dialog header",
+    "defaultMessage": "Delete Vouchers"
+  },
+  {
+    "id": "src.discounts.views.VoucherList.2890385639",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this voucher} other{{displayQuantity} vouchers}}?"
+  }
+]

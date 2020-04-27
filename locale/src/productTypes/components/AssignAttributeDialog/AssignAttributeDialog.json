@@ -1,0 +1,24 @@
+[
+  {
+    "id": "src.productTypes.components.AssignAttributeDialog.3922579741",
+    "description": "dialog header",
+    "defaultMessage": "Assign Attribute"
+  },
+  {
+    "id": "src.productTypes.components.AssignAttributeDialog.902296540",
+    "defaultMessage": "Search Attributes"
+  },
+  {
+    "id": "src.productTypes.components.AssignAttributeDialog.524117994",
+    "defaultMessage": "Search by attribute name"
+  },
+  {
+    "id": "src.productTypes.components.AssignAttributeDialog.4205644805",
+    "defaultMessage": "No results found"
+  },
+  {
+    "id": "src.productTypes.components.AssignAttributeDialog.2173976534",
+    "description": "button",
+    "defaultMessage": "Assign attributes"
+  }
+]

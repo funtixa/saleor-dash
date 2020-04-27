@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.orders.components.OrderFulfillmentTrackingDialog.606831229",
+    "description": "dialog header",
+    "defaultMessage": "Add Tracking Code"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillmentTrackingDialog.3252172269",
+    "defaultMessage": "Tracking number"
+  }
+]

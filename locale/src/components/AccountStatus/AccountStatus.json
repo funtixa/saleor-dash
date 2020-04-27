@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.components.AccountStatus.2183517419",
+    "description": "section header",
+    "defaultMessage": "Account Status"
+  },
+  {
+    "id": "src.components.AccountStatus.2683780981",
+    "defaultMessage": "If you want to disable this account uncheck the box below"
+  }
+]

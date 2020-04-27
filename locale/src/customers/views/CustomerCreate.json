@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.customers.views.3970234993",
+    "defaultMessage": "Customer created"
+  },
+  {
+    "id": "src.customers.views.2859116187",
+    "description": "window title",
+    "defaultMessage": "Create customer"
+  }
+]

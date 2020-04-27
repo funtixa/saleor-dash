@@ -1,0 +1,36 @@
+[
+  {
+    "id": "src.discounts.components.VoucherList.78726751",
+    "description": "voucher code",
+    "defaultMessage": "Code"
+  },
+  {
+    "id": "src.discounts.components.VoucherList.2427377316",
+    "description": "minimum amount of spent money to activate voucher",
+    "defaultMessage": "Min. Spent"
+  },
+  {
+    "id": "src.discounts.components.VoucherList.47059407",
+    "description": "voucher is active from date",
+    "defaultMessage": "Starts"
+  },
+  {
+    "id": "src.discounts.components.VoucherList.3715522424",
+    "description": "voucher is active until date",
+    "defaultMessage": "Ends"
+  },
+  {
+    "id": "src.discounts.components.VoucherList.1148029984",
+    "description": "voucher value",
+    "defaultMessage": "Value"
+  },
+  {
+    "id": "src.discounts.components.VoucherList.3917820600",
+    "description": "voucher uses",
+    "defaultMessage": "Uses"
+  },
+  {
+    "id": "src.discounts.components.VoucherList.79160621",
+    "defaultMessage": "No vouchers found"
+  }
+]

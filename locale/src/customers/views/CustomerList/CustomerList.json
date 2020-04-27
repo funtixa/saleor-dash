@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.customers.views.CustomerList.2136923553",
+    "description": "dialog header",
+    "defaultMessage": "Delete Customers"
+  },
+  {
+    "id": "src.customers.views.CustomerList.2684650912",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this customer} other{{displayQuantity} customers}}?"
+  }
+]

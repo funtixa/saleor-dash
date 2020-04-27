@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src.customers.components.CustomerAddressListPage.489918044",
+    "description": "customer details, header",
+    "defaultMessage": "{fullName} Details"
+  },
+  {
+    "id": "src.customers.components.CustomerAddressListPage.1090326769",
+    "description": "customer's address book, header",
+    "defaultMessage": "{fullName}'s Address Book"
+  },
+  {
+    "id": "src.customers.components.CustomerAddressListPage.3623935073",
+    "description": "button",
+    "defaultMessage": "Add address"
+  },
+  {
+    "id": "src.customers.components.CustomerAddressListPage.1484733755",
+    "defaultMessage": "There is no address to show for this customer"
+  },
+  {
+    "id": "src.customers.components.CustomerAddressListPage.1428369222",
+    "defaultMessage": "This customer doesn’t have any adresses added to his address book. You can add address using the button below."
+  }
+]

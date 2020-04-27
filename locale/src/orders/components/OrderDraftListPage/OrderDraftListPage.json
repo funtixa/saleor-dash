@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.orders.components.OrderDraftListPage.2826235371",
+    "description": "button",
+    "defaultMessage": "Create order"
+  },
+  {
+    "id": "src.orders.components.OrderDraftListPage.551325728",
+    "description": "tab name",
+    "defaultMessage": "All Drafts"
+  },
+  {
+    "id": "src.orders.components.OrderDraftListPage.77765281",
+    "defaultMessage": "Search Draft"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "productStockHeader",
+    "description": "product stock, section header",
+    "defaultMessage": "Inventory"
+  },
+  {
+    "id": "src.products.components.ProductStock.2585918415",
+    "defaultMessage": "SKU (Stock Keeping Unit)"
+  },
+  {
+    "id": "prodictStockInventoryLabel",
+    "description": "product stock",
+    "defaultMessage": "Inventory"
+  },
+  {
+    "id": "src.products.components.ProductStock.1680952454",
+    "description": "allocated product stock",
+    "defaultMessage": "Allocated: {quantity}"
+  }
+]

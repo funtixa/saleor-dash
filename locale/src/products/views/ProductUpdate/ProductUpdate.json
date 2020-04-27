@@ -1,0 +1,26 @@
+[
+  {
+    "id": "src.products.views.ProductUpdate.4108890645",
+    "defaultMessage": "Product removed"
+  },
+  {
+    "id": "src.products.views.ProductUpdate.879305849",
+    "description": "dialog header",
+    "defaultMessage": "Delete Product"
+  },
+  {
+    "id": "src.products.views.ProductUpdate.2297471173",
+    "description": "delete product",
+    "defaultMessage": "Are you sure you want to delete {name}?"
+  },
+  {
+    "id": "src.products.views.ProductUpdate.1454532689",
+    "description": "dialog header",
+    "defaultMessage": "Delete Product Variants"
+  },
+  {
+    "id": "src.products.views.ProductUpdate.3164400159",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this variant} other{{displayQuantity} variants}}?"
+  }
+]

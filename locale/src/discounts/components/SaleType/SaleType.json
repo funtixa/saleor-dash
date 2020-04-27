@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.discounts.components.SaleType.3688224049",
+    "description": "discount type",
+    "defaultMessage": "Percentage"
+  },
+  {
+    "id": "src.discounts.components.SaleType.46415128",
+    "description": "discount type",
+    "defaultMessage": "Fixed Amount"
+  },
+  {
+    "id": "src.discounts.components.SaleType.3216816841",
+    "description": "percentage or fixed, header",
+    "defaultMessage": "Discount Type"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.discounts.views.SaleList.2809303671",
+    "description": "dialog header",
+    "defaultMessage": "Delete Sales"
+  },
+  {
+    "id": "src.discounts.views.SaleList.4254226712",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this sale} other{{displayQuantity} sales}}?"
+  }
+]

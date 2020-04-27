@@ -1,0 +1,34 @@
+[
+  {
+    "id": "src.products.components.ProductOrganization.2364184433",
+    "description": "section header",
+    "defaultMessage": "Organize Product"
+  },
+  {
+    "id": "src.products.components.ProductOrganization.4257289053",
+    "defaultMessage": "Product Type"
+  },
+  {
+    "id": "src.products.components.ProductOrganization.2754779425",
+    "description": "product is configurable",
+    "defaultMessage": "Configurable"
+  },
+  {
+    "id": "src.products.components.ProductOrganization.150865454",
+    "description": "product is not configurable",
+    "defaultMessage": "Simple"
+  },
+  {
+    "id": "src.products.components.ProductOrganization.1755013298",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "src.products.components.ProductOrganization.222873645",
+    "defaultMessage": "Collections"
+  },
+  {
+    "id": "src.products.components.ProductOrganization.2805838453",
+    "description": "field is optional",
+    "defaultMessage": "*Optional. Adding product to collection helps users find it."
+  }
+]

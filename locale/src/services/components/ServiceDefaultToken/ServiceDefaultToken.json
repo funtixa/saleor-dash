@@ -1,0 +1,24 @@
+[
+  {
+    "id": "src.services.components.ServiceDefaultToken.4189999598",
+    "defaultMessage": "We’ve created your default token. Make sure to copy your new personal access token now. You won’t be able to see it again."
+  },
+  {
+    "id": "src.services.components.ServiceDefaultToken.2080322626",
+    "defaultMessage": "This token gives you access to your shop's API, which you'll find here: {url}"
+  },
+  {
+    "id": "src.services.components.ServiceDefaultToken.1336855942",
+    "defaultMessage": "Generated Token"
+  },
+  {
+    "id": "src.services.components.ServiceDefaultToken.2864204643",
+    "description": "button",
+    "defaultMessage": "Copied"
+  },
+  {
+    "id": "src.services.components.ServiceDefaultToken.3406541221",
+    "description": "button",
+    "defaultMessage": "Copy token"
+  }
+]

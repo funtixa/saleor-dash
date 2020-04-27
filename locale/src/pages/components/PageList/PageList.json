@@ -1,0 +1,31 @@
+[
+  {
+    "id": "src.pages.components.PageList.1124600214",
+    "description": "dialog header",
+    "defaultMessage": "Title"
+  },
+  {
+    "id": "src.pages.components.PageList.3478065224",
+    "description": "page internal name",
+    "defaultMessage": "Slug"
+  },
+  {
+    "id": "src.pages.components.PageList.1459686496",
+    "description": "page status",
+    "defaultMessage": "Visibility"
+  },
+  {
+    "id": "src.pages.components.PageList.3640454975",
+    "description": "page status",
+    "defaultMessage": "Published"
+  },
+  {
+    "id": "src.pages.components.PageList.3767550649",
+    "description": "page status",
+    "defaultMessage": "Not Published"
+  },
+  {
+    "id": "src.pages.components.PageList.2489163252",
+    "defaultMessage": "No pages found"
+  }
+]

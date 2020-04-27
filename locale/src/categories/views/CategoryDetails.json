@@ -1,0 +1,37 @@
+[
+  {
+    "id": "src.categories.views.2189424032",
+    "defaultMessage": "Category deleted"
+  },
+  {
+    "id": "src.categories.views.2004894945",
+    "description": "dialog title",
+    "defaultMessage": "Delete category"
+  },
+  {
+    "id": "src.categories.views.847492725",
+    "defaultMessage": "Are you sure you want to delete {categoryName}?"
+  },
+  {
+    "id": "src.categories.views.3488150607",
+    "defaultMessage": "Remember this will also delete all products assigned to this category."
+  },
+  {
+    "id": "src.categories.views.712767046",
+    "description": "dialog title",
+    "defaultMessage": "Delete categories"
+  },
+  {
+    "id": "src.categories.views.4211459158",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this attribute} other{{displayQuantity} categories}}?"
+  },
+  {
+    "id": "src.categories.views.2507763081",
+    "description": "dialog title",
+    "defaultMessage": "Delete products"
+  },
+  {
+    "id": "src.categories.views.1031409169",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this attribute} other{{displayQuantity} products}}?"
+  }
+]

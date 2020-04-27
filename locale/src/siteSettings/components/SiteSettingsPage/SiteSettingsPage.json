@@ -1,0 +1,37 @@
+[
+  {
+    "id": "src.siteSettings.components.SiteSettingsPage.3799756739",
+    "defaultMessage": "These are general information about your store. They define what is the URL of your store and what is shown in browsers taskbar."
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsPage.280712237",
+    "description": "section header",
+    "defaultMessage": "Mailing Configuration"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsPage.866304242",
+    "defaultMessage": "This where you will find all of the settings determining your stores e-mails. You can determine main email address and some of the contents of your emails."
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsPage.2768400497",
+    "description": "section header",
+    "defaultMessage": "Company Information"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsPage.1004240342",
+    "defaultMessage": "This adress will be used to generate invoices and calculate shipping rates."
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsPage.3657173399",
+    "defaultMessage": "Email adress you provide here will be used as a contact adress for your customers."
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsPage.4088830385",
+    "description": "section header",
+    "defaultMessage": "Authentication Methods"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsPage.3619898341",
+    "defaultMessage": "Authentication method defines additional ways that customers can log in to your ecommerce."
+  }
+]

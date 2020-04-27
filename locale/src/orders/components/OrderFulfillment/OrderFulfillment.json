@@ -1,0 +1,41 @@
+[
+  {
+    "id": "src.orders.components.OrderFulfillment.3494686506",
+    "description": "section header",
+    "defaultMessage": "Fulfilled ({quantity})"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillment.662203348",
+    "description": "button",
+    "defaultMessage": "Cancel shipment"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillment.1895667608",
+    "description": "product name",
+    "defaultMessage": "Product"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillment.2796503714",
+    "description": "ordered product quantity",
+    "defaultMessage": "Quantity"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillment.1134347598",
+    "description": "product price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillment.878013594",
+    "description": "order line total price",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillment.3254150098",
+    "defaultMessage": "Tracking Number: {trackingNumber}"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillment.1119771899",
+    "description": "fulfillment group tracking number",
+    "defaultMessage": "Add tracking"
+  }
+]

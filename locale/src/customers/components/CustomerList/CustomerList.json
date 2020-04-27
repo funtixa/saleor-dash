@@ -1,0 +1,18 @@
+[
+  {
+    "id": "src.customers.components.CustomerList.4154265139",
+    "defaultMessage": "Customer Name"
+  },
+  {
+    "id": "src.customers.components.CustomerList.2339105195",
+    "defaultMessage": "Customer Email"
+  },
+  {
+    "id": "src.customers.components.CustomerList.1432565772",
+    "defaultMessage": "No. of Orders"
+  },
+  {
+    "id": "src.customers.components.CustomerList.2239722559",
+    "defaultMessage": "No customers found"
+  }
+]

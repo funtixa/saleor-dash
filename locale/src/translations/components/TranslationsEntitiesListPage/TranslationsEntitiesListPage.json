@@ -1,0 +1,67 @@
+[
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.3841025483",
+    "defaultMessage": "Search Category"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.4057224233",
+    "defaultMessage": "Search Collection"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.2105464697",
+    "defaultMessage": "Search Product"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.1866913828",
+    "defaultMessage": "Search Sale"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.1930485532",
+    "defaultMessage": "Search Voucher"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.2559018090",
+    "defaultMessage": "Search Page"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.3420445375",
+    "defaultMessage": "Search Product Type"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.1163855804",
+    "defaultMessage": "Languages"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.2460580333",
+    "description": "header",
+    "defaultMessage": "Translations to {language}"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.3583204912",
+    "defaultMessage": "Categories"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.222873645",
+    "defaultMessage": "Collections"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.2968663655",
+    "defaultMessage": "Products"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.487083593",
+    "defaultMessage": "Sales"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.749185240",
+    "defaultMessage": "Vouchers"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.3287512325",
+    "defaultMessage": "Pages"
+  },
+  {
+    "id": "src.translations.components.TranslationsEntitiesListPage.765385638",
+    "defaultMessage": "Product Types"
+  }
+]

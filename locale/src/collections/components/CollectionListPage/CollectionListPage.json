@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.collections.components.CollectionListPage.686910896",
+    "description": "button",
+    "defaultMessage": "Create collection"
+  },
+  {
+    "id": "src.collections.components.CollectionListPage.1631917001",
+    "description": "tab name",
+    "defaultMessage": "All Collections"
+  },
+  {
+    "id": "src.collections.components.CollectionListPage.4057224233",
+    "defaultMessage": "Search Collection"
+  }
+]

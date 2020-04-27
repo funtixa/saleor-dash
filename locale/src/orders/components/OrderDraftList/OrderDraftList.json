@@ -1,0 +1,24 @@
+[
+  {
+    "id": "src.orders.components.OrderDraftList.2889196282",
+    "defaultMessage": "No. of Order"
+  },
+  {
+    "id": "src.orders.components.OrderDraftList.4205493358",
+    "description": "order draft creation date",
+    "defaultMessage": "Date"
+  },
+  {
+    "id": "src.orders.components.OrderDraftList.3426593715",
+    "defaultMessage": "Customer"
+  },
+  {
+    "id": "src.orders.components.OrderDraftList.878013594",
+    "description": "order draft total price",
+    "defaultMessage": "Total"
+  },
+  {
+    "id": "src.orders.components.OrderDraftList.2177368638",
+    "defaultMessage": "No draft orders found"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "id": "src.orders.components.OrderCustomer.3426593715",
+    "description": "section header",
+    "defaultMessage": "Customer"
+  },
+  {
+    "id": "src.orders.components.OrderCustomer.2433460203",
+    "defaultMessage": "Search Customers"
+  },
+  {
+    "id": "src.orders.components.OrderCustomer.4172383244",
+    "defaultMessage": "Anonymous user"
+  },
+  {
+    "id": "src.orders.components.OrderCustomer.2672803871",
+    "description": "link",
+    "defaultMessage": "View Profile"
+  },
+  {
+    "id": "src.orders.components.OrderCustomer.2312694610",
+    "description": "subheader",
+    "defaultMessage": "Contact Information"
+  },
+  {
+    "id": "orderCustomerCustomerNotSet",
+    "description": "customer is not set in draft order",
+    "defaultMessage": "Not set"
+  },
+  {
+    "id": "src.orders.components.OrderCustomer.2758581442",
+    "defaultMessage": "Shipping Address"
+  },
+  {
+    "id": "orderCustomerShippingAddressNotSet",
+    "description": "shipping address is not set in draft order",
+    "defaultMessage": "Not set"
+  },
+  {
+    "id": "src.orders.components.OrderCustomer.4282475982",
+    "defaultMessage": "Billing Address"
+  },
+  {
+    "id": "orderCustomerBillingAddressNotSet",
+    "description": "no address is set in draft order",
+    "defaultMessage": "Not set"
+  },
+  {
+    "id": "src.orders.components.OrderCustomer.3912924864",
+    "description": "billing address",
+    "defaultMessage": "Same as shipping address"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.products.components.ProductVariantCreatePage.3726089650",
+    "description": "button",
+    "defaultMessage": "Delete Variant"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreatePage.2853608829",
+    "description": "button",
+    "defaultMessage": "Save variant"
+  }
+]

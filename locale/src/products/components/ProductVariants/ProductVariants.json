@@ -1,0 +1,50 @@
+[
+  {
+    "id": "src.products.components.ProductVariants.2153006789",
+    "description": "section header",
+    "defaultMessage": "Variants"
+  },
+  {
+    "id": "src.products.components.ProductVariants.3989383405",
+    "description": "button",
+    "defaultMessage": "Create variant"
+  },
+  {
+    "id": "src.products.components.ProductVariants.1721716102",
+    "description": "button",
+    "defaultMessage": "Create variants"
+  },
+  {
+    "id": "src.products.components.ProductVariants.277989856",
+    "defaultMessage": "Use variants for products that come in a variety of versions for example different sizes or colors"
+  },
+  {
+    "id": "src.products.components.ProductVariants.636461959",
+    "description": "product variant name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.products.components.ProductVariants.1756106276",
+    "description": "product variant status",
+    "defaultMessage": "Status"
+  },
+  {
+    "id": "src.products.components.ProductVariants.693960049",
+    "defaultMessage": "SKU"
+  },
+  {
+    "id": "src.products.components.ProductVariants.1134347598",
+    "description": "product variant price",
+    "defaultMessage": "Price"
+  },
+  {
+    "id": "src.products.components.ProductVariants.2157131639",
+    "description": "product variant status",
+    "defaultMessage": "Available"
+  },
+  {
+    "id": "src.products.components.ProductVariants.1033175132",
+    "description": "product variant status",
+    "defaultMessage": "Unavailable"
+  }
+]

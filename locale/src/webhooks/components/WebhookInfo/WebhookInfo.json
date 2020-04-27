@@ -1,0 +1,41 @@
+[
+  {
+    "id": "src.webhooks.components.WebhookInfo.330298209",
+    "description": "section header",
+    "defaultMessage": "Webhook Information"
+  },
+  {
+    "id": "src.webhooks.components.WebhookInfo.1826224431",
+    "description": "webhook",
+    "defaultMessage": "Webhook Name"
+  },
+  {
+    "id": "src.webhooks.components.WebhookInfo.4194304040",
+    "description": "webhook specific information",
+    "defaultMessage": "Webhook specific information"
+  },
+  {
+    "id": "src.webhooks.components.WebhookInfo.819389696",
+    "defaultMessage": "Assign to Service Account"
+  },
+  {
+    "id": "src.webhooks.components.WebhookInfo.3763861707",
+    "description": "webhook target url help text",
+    "defaultMessage": "This URL will receive webhook POST requests"
+  },
+  {
+    "id": "src.webhooks.components.WebhookInfo.1690209105",
+    "description": "webhook",
+    "defaultMessage": "Target URL"
+  },
+  {
+    "id": "src.webhooks.components.WebhookInfo.3809115222",
+    "description": "webhook secret key help text",
+    "defaultMessage": "secret key is used to create a hash signature with each payload. *optional field"
+  },
+  {
+    "id": "src.webhooks.components.WebhookInfo.3995417850",
+    "description": "webhook",
+    "defaultMessage": "Secrect Key"
+  }
+]

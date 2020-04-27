@@ -1,0 +1,31 @@
+[
+  {
+    "id": "src.discounts.components.DiscountCountrySelectDialog.1585396479",
+    "description": "dialog header",
+    "defaultMessage": "Assign Countries"
+  },
+  {
+    "id": "src.discounts.components.DiscountCountrySelectDialog.2177165134",
+    "defaultMessage": "Choose countries, you want voucher to be limited to, from the list below"
+  },
+  {
+    "id": "src.discounts.components.DiscountCountrySelectDialog.2566713432",
+    "description": "search box label",
+    "defaultMessage": "Filter Countries"
+  },
+  {
+    "id": "src.discounts.components.DiscountCountrySelectDialog.2110418881",
+    "description": "search box placeholder",
+    "defaultMessage": "Search by country name"
+  },
+  {
+    "id": "src.discounts.components.DiscountCountrySelectDialog.2777439857",
+    "description": "country selection",
+    "defaultMessage": "Countries A to Z"
+  },
+  {
+    "id": "src.discounts.components.DiscountCountrySelectDialog.2747492886",
+    "description": "button",
+    "defaultMessage": "Assign countries"
+  }
+]

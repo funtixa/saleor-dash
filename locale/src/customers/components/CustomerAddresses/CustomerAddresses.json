@@ -1,0 +1,26 @@
+[
+  {
+    "id": "src.customers.components.CustomerAddresses.1967111456",
+    "description": "header",
+    "defaultMessage": "Address Information"
+  },
+  {
+    "id": "src.customers.components.CustomerAddresses.4282475982",
+    "description": "subsection header",
+    "defaultMessage": "Billing Address"
+  },
+  {
+    "id": "src.customers.components.CustomerAddresses.2758581442",
+    "description": "subsection header",
+    "defaultMessage": "Shipping Address"
+  },
+  {
+    "id": "src.customers.components.CustomerAddresses.3870425261",
+    "defaultMessage": "This customer has no addresses yet"
+  },
+  {
+    "id": "src.customers.components.CustomerAddresses.359810770",
+    "description": "subsection header",
+    "defaultMessage": "Address"
+  }
+]

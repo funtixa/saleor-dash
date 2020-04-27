@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.customers.components.CustomerListPage.1934221653",
+    "description": "button",
+    "defaultMessage": "Add customer"
+  },
+  {
+    "id": "src.customers.components.CustomerListPage.477293306",
+    "description": "tab name",
+    "defaultMessage": "All Customers"
+  },
+  {
+    "id": "src.customers.components.CustomerListPage.1643417013",
+    "defaultMessage": "Search Customer"
+  }
+]

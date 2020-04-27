@@ -1,0 +1,95 @@
+[
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.2892088870",
+    "description": "dialog header",
+    "defaultMessage": "Add Price Rate"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.3934114933",
+    "description": "dialog header",
+    "defaultMessage": "Edit Price Rate"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.1397795758",
+    "description": "add weight based shipping method, dialog header",
+    "defaultMessage": "Add Weight Rate"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.4152709923",
+    "description": "edit weight based shipping method, dialog header",
+    "defaultMessage": "Edit Weight Rate"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.1486599614",
+    "defaultMessage": "This will be shown to customers at checkout"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.382595300",
+    "description": "shipping method name",
+    "defaultMessage": "Rate Name"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.2533614652",
+    "description": "order price range",
+    "defaultMessage": "Value range"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.2324036635",
+    "description": "order weight range",
+    "defaultMessage": "Weight range"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.882649212",
+    "description": "shipping method has no value limits",
+    "defaultMessage": "There are no value limits"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.4226393146",
+    "defaultMessage": "This rate will apply to all orders of all prices"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.1388947267",
+    "defaultMessage": "This rate will apply to all orders of all weights"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.1337705349",
+    "defaultMessage": "Minimal Order Value"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.1878009504",
+    "defaultMessage": "Minimal Order Weight"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.3463567334",
+    "defaultMessage": "Maximal Order Value"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.3659741519",
+    "defaultMessage": "Maximal Order Weight"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.3213611593",
+    "description": "shipping method",
+    "defaultMessage": "Rate"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.2215090771",
+    "description": "shipping method, switch button",
+    "defaultMessage": "This is free shipping"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.1403365734",
+    "description": "shipping method price",
+    "defaultMessage": "Rate Price"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.16061680",
+    "description": "button",
+    "defaultMessage": "Create rate"
+  },
+  {
+    "id": "src.shipping.components.ShippingZoneRateDialog.1542600502",
+    "description": "button",
+    "defaultMessage": "Update rate"
+  }
+]

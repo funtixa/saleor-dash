@@ -1,0 +1,37 @@
+[
+  {
+    "id": "src.orders.views.OrderList.dateFrom",
+    "description": "filter by date",
+    "defaultMessage": "Date from {date}"
+  },
+  {
+    "id": "src.orders.views.OrderList.dateIs",
+    "description": "filter by date",
+    "defaultMessage": "Date is {date}"
+  },
+  {
+    "id": "src.orders.views.OrderList.dateTo",
+    "description": "filter by date",
+    "defaultMessage": "Date to {date}"
+  },
+  {
+    "id": "src.orders.views.OrderList.fulfilled",
+    "description": "order status",
+    "defaultMessage": "Fulfilled"
+  },
+  {
+    "id": "src.orders.views.OrderList.partiallyFulfilled",
+    "description": "order status",
+    "defaultMessage": "Partially Fulfilled"
+  },
+  {
+    "id": "src.orders.views.OrderList.readyToCapture",
+    "description": "order status",
+    "defaultMessage": "Ready to Capture"
+  },
+  {
+    "id": "src.orders.views.OrderList.unfulfilled",
+    "description": "order status",
+    "defaultMessage": "Unfulfilled"
+  }
+]

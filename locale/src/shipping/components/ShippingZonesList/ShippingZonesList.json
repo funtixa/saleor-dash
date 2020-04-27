@@ -1,0 +1,25 @@
+[
+  {
+    "id": "src.shipping.components.ShippingZonesList.120574110",
+    "description": "sort shipping methods by zone, section header",
+    "defaultMessage": "Shipping By Zone"
+  },
+  {
+    "id": "src.shipping.components.ShippingZonesList.2673544109",
+    "description": "button",
+    "defaultMessage": "Create shipping zone"
+  },
+  {
+    "id": "src.shipping.components.ShippingZonesList.636461959",
+    "description": "shipping zone",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.shipping.components.ShippingZonesList.3109712047",
+    "defaultMessage": "Countries"
+  },
+  {
+    "id": "src.shipping.components.ShippingZonesList.655374584",
+    "defaultMessage": "No shipping zones found"
+  }
+]

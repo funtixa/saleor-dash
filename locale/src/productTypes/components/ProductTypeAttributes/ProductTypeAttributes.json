@@ -1,0 +1,30 @@
+[
+  {
+    "id": "src.productTypes.components.ProductTypeAttributes.3559259966",
+    "description": "section header",
+    "defaultMessage": "Product Attributes"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeAttributes.888493112",
+    "description": "section header",
+    "defaultMessage": "Variant Attributes"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeAttributes.1656462109",
+    "description": "button",
+    "defaultMessage": "Assign attribute"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeAttributes.1228425832",
+    "defaultMessage": "Attribute name"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeAttributes.3478065224",
+    "description": "attribute internal name",
+    "defaultMessage": "Slug"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeAttributes.1192828581",
+    "defaultMessage": "No attributes found"
+  }
+]

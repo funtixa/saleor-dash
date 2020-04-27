@@ -1,0 +1,31 @@
+[
+  {
+    "id": "menuItemDialogAddLink",
+    "description": "add link to navigation",
+    "defaultMessage": "Link to: {url}"
+  },
+  {
+    "id": "menuItemDialogEditItem",
+    "description": "edit menu item, header",
+    "defaultMessage": "Edit Item"
+  },
+  {
+    "id": "menuItemDialogAddItem",
+    "description": "create new menu item, header",
+    "defaultMessage": "Add Item"
+  },
+  {
+    "id": "menuItemDialogNameLabel",
+    "description": "menu item name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "menuItemDialogLinkLabel",
+    "description": "label",
+    "defaultMessage": "Link"
+  },
+  {
+    "id": "menuItemDialogLinkPlaceholder",
+    "defaultMessage": "Start typing to begin search..."
+  }
+]

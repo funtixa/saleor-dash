@@ -1,0 +1,45 @@
+[
+  {
+    "id": "src.attributes.components.AttributeProperties.1877630205",
+    "description": "attribute properties regarding storefront",
+    "defaultMessage": "Storefront Properties"
+  },
+  {
+    "id": "src.attributes.components.AttributeProperties.1318123158",
+    "description": "attribute is filterable in storefront",
+    "defaultMessage": "Use in Faceted Navigation"
+  },
+  {
+    "id": "src.attributes.components.AttributeProperties.3590282519",
+    "description": "attribute position in storefront filters",
+    "defaultMessage": "Position in faceted navigation"
+  },
+  {
+    "id": "src.attributes.components.AttributeProperties.3876764312",
+    "description": "attribute",
+    "defaultMessage": "Visible on Product Page in Storefront"
+  },
+  {
+    "id": "src.attributes.components.AttributeProperties.26409543",
+    "description": "attribute properties regarding dashboard",
+    "defaultMessage": "Dashboard Properties"
+  },
+  {
+    "id": "src.attributes.components.AttributeProperties.714335445",
+    "description": "use attribute in filtering",
+    "defaultMessage": "Use in Filtering"
+  },
+  {
+    "id": "src.attributes.components.AttributeProperties.787251583",
+    "defaultMessage": "If enabled, you’ll be able to use this attribute to filter products in product list."
+  },
+  {
+    "id": "src.attributes.components.AttributeProperties.673770329",
+    "description": "add attribute as column in product list table",
+    "defaultMessage": "Add to Column Options"
+  },
+  {
+    "id": "src.attributes.components.AttributeProperties.4048785456",
+    "defaultMessage": "If enabled this attribute can be used as a column in product table."
+  }
+]

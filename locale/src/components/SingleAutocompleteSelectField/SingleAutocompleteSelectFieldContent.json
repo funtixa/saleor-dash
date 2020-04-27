@@ -1,0 +1,15 @@
+[
+  {
+    "id": "src.components.SingleAutocompleteSelectField.3069107721",
+    "defaultMessage": "None"
+  },
+  {
+    "id": "src.components.SingleAutocompleteSelectField.1477537381",
+    "description": "add custom select input option",
+    "defaultMessage": "Add new value: {value}"
+  },
+  {
+    "id": "src.components.SingleAutocompleteSelectField.4205644805",
+    "defaultMessage": "No results found"
+  }
+]

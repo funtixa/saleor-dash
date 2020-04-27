@@ -1,0 +1,20 @@
+[
+  {
+    "id": "src.staff.views.1308770978",
+    "description": "dialog header",
+    "defaultMessage": "delete Staff User"
+  },
+  {
+    "id": "src.staff.views.8878988",
+    "defaultMessage": "Are you sure you want to delete {email} from staff members?"
+  },
+  {
+    "id": "src.staff.views.701332676",
+    "description": "dialog header",
+    "defaultMessage": "Delete Staff User Avatar"
+  },
+  {
+    "id": "src.staff.views.3945766678",
+    "defaultMessage": "Are you sure you want to remove {email} avatar?"
+  }
+]

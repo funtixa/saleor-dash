@@ -1,0 +1,18 @@
+[
+  {
+    "id": "src.taxes.components.CountryList.4039455144",
+    "defaultMessage": "Country Code"
+  },
+  {
+    "id": "src.taxes.components.CountryList.577035076",
+    "defaultMessage": "Country Name"
+  },
+  {
+    "id": "src.taxes.components.CountryList.3154586635",
+    "defaultMessage": "Reduced Tax Rates"
+  },
+  {
+    "id": "src.taxes.components.CountryList.110033143",
+    "defaultMessage": "No countries found"
+  }
+]

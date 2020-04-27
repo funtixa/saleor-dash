@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.components.CountryList.2747492886",
+    "description": "button",
+    "defaultMessage": "Assign countries"
+  },
+  {
+    "id": "src.components.CountryList.2460766407",
+    "description": "number of countries",
+    "defaultMessage": "{number} Countries"
+  }
+]

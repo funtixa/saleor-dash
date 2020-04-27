@@ -1,0 +1,15 @@
+[
+  {
+    "id": "src.categories.views.CategoryList.712767046",
+    "description": "dialog title",
+    "defaultMessage": "Delete categories"
+  },
+  {
+    "id": "src.categories.views.CategoryList.3247049999",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this category} other{{displayQuantity} categories}}?"
+  },
+  {
+    "id": "src.categories.views.CategoryList.3488150607",
+    "defaultMessage": "Remember this will also delete all products assigned to this category."
+  }
+]

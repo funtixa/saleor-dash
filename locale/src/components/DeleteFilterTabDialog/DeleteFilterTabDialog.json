@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.components.DeleteFilterTabDialog.2173195312",
+    "description": "custom search delete, dialog header",
+    "defaultMessage": "Delete Search"
+  },
+  {
+    "id": "src.components.DeleteFilterTabDialog.71479100",
+    "defaultMessage": "Are you sure you want to delete {name} search tab?"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": "src.products.views.ProductList.available",
+    "description": "filter products by stock",
+    "defaultMessage": "Available"
+  },
+  {
+    "id": "src.products.views.ProductList.hidden",
+    "description": "filter products by visibility",
+    "defaultMessage": "Hidden"
+  },
+  {
+    "id": "src.products.views.ProductList.outOfStock",
+    "description": "filter products by stock",
+    "defaultMessage": "Out of stock"
+  },
+  {
+    "id": "src.products.views.ProductList.priceFrom",
+    "description": "filter by price",
+    "defaultMessage": "Price from {price}"
+  },
+  {
+    "id": "src.products.views.ProductList.priceIs",
+    "description": "filter by price",
+    "defaultMessage": "Price is {price}"
+  },
+  {
+    "id": "src.products.views.ProductList.priceTo",
+    "description": "filter by price",
+    "defaultMessage": "Price to {price}"
+  },
+  {
+    "id": "src.products.views.ProductList.published",
+    "description": "filter products by visibility",
+    "defaultMessage": "Published"
+  }
+]

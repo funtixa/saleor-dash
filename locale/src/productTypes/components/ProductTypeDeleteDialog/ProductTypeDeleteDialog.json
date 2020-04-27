@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.productTypes.components.ProductTypeDeleteDialog.924066985",
+    "description": "dialog header",
+    "defaultMessage": "Delete Product Type"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeDeleteDialog.2297471173",
+    "description": "delete product type",
+    "defaultMessage": "Are you sure you want to delete {name}?"
+  }
+]

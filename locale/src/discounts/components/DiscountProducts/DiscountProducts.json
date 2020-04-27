@@ -1,0 +1,34 @@
+[
+  {
+    "id": "src.discounts.components.DiscountProducts.919175218",
+    "description": "section header",
+    "defaultMessage": "Eligible Products"
+  },
+  {
+    "id": "src.discounts.components.DiscountProducts.2100305525",
+    "description": "button",
+    "defaultMessage": "Assign products"
+  },
+  {
+    "id": "src.discounts.components.DiscountProducts.2697405188",
+    "defaultMessage": "Product Name"
+  },
+  {
+    "id": "src.discounts.components.DiscountProducts.4257289053",
+    "defaultMessage": "Product Type"
+  },
+  {
+    "id": "src.discounts.components.DiscountProducts.3640454975",
+    "description": "product is published",
+    "defaultMessage": "Published"
+  },
+  {
+    "id": "src.discounts.components.DiscountProducts.2341910657",
+    "description": "product is not published",
+    "defaultMessage": "Not published"
+  },
+  {
+    "id": "src.discounts.components.DiscountProducts.1657559629",
+    "defaultMessage": "No products found"
+  }
+]

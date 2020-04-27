@@ -1,0 +1,131 @@
+[
+  {
+    "id": "src.orders.components.OrderHistory.950782935",
+    "description": "order history message",
+    "defaultMessage": "Order was cancelled"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.3506022286",
+    "description": "order history message",
+    "defaultMessage": "Products were added to draft order"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.3095247195",
+    "description": "order history message",
+    "defaultMessage": "Draft order was created"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.4067959693",
+    "description": "order history message",
+    "defaultMessage": "Products were deleted from draft order"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.1867847329",
+    "description": "order history message",
+    "defaultMessage": "Links to the order's digital goods were sent"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.3081292385",
+    "description": "order history message",
+    "defaultMessage": "Fulfillment confirmation was sent to customer"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.2369495522",
+    "description": "order history message",
+    "defaultMessage": "Order confirmation was sent to customer"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.2020753264",
+    "description": "order history message",
+    "defaultMessage": "Payment confirmation was sent to customer"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.651019008",
+    "description": "order history message",
+    "defaultMessage": "Shipping details was sent to customer"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.3453124210",
+    "description": "order history message",
+    "defaultMessage": "Shipping tracking number was sent to customer"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.1527620381",
+    "description": "order history message",
+    "defaultMessage": "Fulfillment was cancelled"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.1521936480",
+    "description": "order history message",
+    "defaultMessage": "Fulfilled {quantity} items"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.2027649178",
+    "description": "order history message",
+    "defaultMessage": "Restocked {quantity} items"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.2304318421",
+    "description": "order history message",
+    "defaultMessage": "Note was added to the order"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.2655541129",
+    "description": "order history message",
+    "defaultMessage": "Order was fully paid"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.3328124376",
+    "description": "order history message",
+    "defaultMessage": "Marked order as paid"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.4015160303",
+    "description": "order history message",
+    "defaultMessage": "Oversold {quantity} items"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.2770854455",
+    "description": "order history message",
+    "defaultMessage": "Payment was captured"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.4266665081",
+    "description": "order history message",
+    "defaultMessage": "Payment failed"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.348557206",
+    "description": "order history message",
+    "defaultMessage": "Payment was refunded"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.2566971846",
+    "description": "order history message",
+    "defaultMessage": "Payment was voided"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.184692906",
+    "description": "order history message",
+    "defaultMessage": "Order was placed"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.1964864749",
+    "description": "order history message",
+    "defaultMessage": "Order was created from draft"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.4265697648",
+    "description": "order history message",
+    "defaultMessage": "Updated fulfillment group's tracking number"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.1230178536",
+    "description": "order history message",
+    "defaultMessage": "Order address was updated"
+  },
+  {
+    "id": "src.orders.components.OrderHistory.3990160018",
+    "defaultMessage": "Order History"
+  }
+]

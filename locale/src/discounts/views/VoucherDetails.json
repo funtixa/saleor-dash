@@ -1,0 +1,61 @@
+[
+  {
+    "id": "src.discounts.views.1162257691",
+    "defaultMessage": "Deleted voucher"
+  },
+  {
+    "id": "voucherDetailsUnassignCategory",
+    "description": "unassign category from voucher, button",
+    "defaultMessage": "Unassign"
+  },
+  {
+    "id": "voucherDetailsUnassignCollection",
+    "description": "unassign collection from voucher, button",
+    "defaultMessage": "Unassign"
+  },
+  {
+    "id": "voucherDetailsUnassignProduct",
+    "description": "unassign product from voucher, button",
+    "defaultMessage": "Unassign"
+  },
+  {
+    "id": "src.discounts.views.2669520431",
+    "description": "dialog header",
+    "defaultMessage": "Unassign Categories From Voucher"
+  },
+  {
+    "id": "src.discounts.views.4031975937",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to unassign {counter,plural,one{this category} other{{displayQuantity} categories}}?"
+  },
+  {
+    "id": "src.discounts.views.1402402714",
+    "description": "dialog header",
+    "defaultMessage": "Unassign Collections From Voucher"
+  },
+  {
+    "id": "src.discounts.views.3000056951",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to unassign {counter,plural,one{this collection} other{{displayQuantity} collections}}?"
+  },
+  {
+    "id": "src.discounts.views.2072403265",
+    "description": "dialog header",
+    "defaultMessage": "Unassign Products From Voucher"
+  },
+  {
+    "id": "src.discounts.views.3714782053",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to unassign {counter,plural,one{this product} other{{displayQuantity} products}}?"
+  },
+  {
+    "id": "src.discounts.views.895379508",
+    "description": "dialog header",
+    "defaultMessage": "Delete Voucher"
+  },
+  {
+    "id": "src.discounts.views.3261917848",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {voucherCode}?"
+  }
+]

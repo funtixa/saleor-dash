@@ -1,0 +1,52 @@
+[
+  {
+    "id": "src.paid",
+    "description": "payment status",
+    "defaultMessage": "Fully paid"
+  },
+  {
+    "id": "src.partiallyPaid",
+    "description": "payment status",
+    "defaultMessage": "Partially paid"
+  },
+  {
+    "id": "src.partiallyRefunded",
+    "description": "payment status",
+    "defaultMessage": "Partially refunded"
+  },
+  {
+    "id": "src.refunded",
+    "description": "payment status",
+    "defaultMessage": "Fully refunded"
+  },
+  {
+    "id": "src.unpaid",
+    "description": "payment status",
+    "defaultMessage": "Unpaid"
+  },
+  {
+    "id": "src.cancelled",
+    "description": "order status",
+    "defaultMessage": "Cancelled"
+  },
+  {
+    "id": "src.draft",
+    "description": "order status",
+    "defaultMessage": "Draft"
+  },
+  {
+    "id": "src.fulfilled",
+    "description": "order status",
+    "defaultMessage": "Fulfilled"
+  },
+  {
+    "id": "src.partiallyFulfilled",
+    "description": "order status",
+    "defaultMessage": "Partially fulfilled"
+  },
+  {
+    "id": "src.unfulfilled",
+    "description": "order status",
+    "defaultMessage": "Unfulfilled"
+  }
+]

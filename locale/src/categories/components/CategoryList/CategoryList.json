@@ -1,0 +1,24 @@
+[
+  {
+    "id": "src.categories.components.CategoryList.1214235329",
+    "defaultMessage": "Category Name"
+  },
+  {
+    "id": "src.categories.components.CategoryList.2159874182",
+    "description": "number of subcategories",
+    "defaultMessage": "Subcategories"
+  },
+  {
+    "id": "src.categories.components.CategoryList.2527742754",
+    "description": "number of products",
+    "defaultMessage": "No. of Products"
+  },
+  {
+    "id": "src.categories.components.CategoryList.2054128296",
+    "defaultMessage": "No categories found"
+  },
+  {
+    "id": "src.categories.components.CategoryList.2155313053",
+    "defaultMessage": "No subcategories found"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.2478977538",
+    "description": "attribute values, variant creation step",
+    "defaultMessage": "Select Values"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.705096461",
+    "description": "variant creation step",
+    "defaultMessage": "Prices and SKU"
+  },
+  {
+    "id": "src.products.components.ProductVariantCreateDialog.2745385064",
+    "description": "variant creation step",
+    "defaultMessage": "Summary"
+  }
+]

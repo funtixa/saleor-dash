@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.components.ColumnPicker.2715399461",
+    "description": "pick columns to display",
+    "defaultMessage": "{numberOfSelected} columns selected out of {numberOfTotal}"
+  },
+  {
+    "id": "src.components.ColumnPicker.1483881697",
+    "description": "button",
+    "defaultMessage": "Reset"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.orders.components.OrderPaymentVoidDialog.3089049828",
+    "description": "dialog header",
+    "defaultMessage": "Void Payment"
+  },
+  {
+    "id": "src.orders.components.OrderPaymentVoidDialog.2217048637",
+    "defaultMessage": "Are you sure you want to void this payment?"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "src.collections.components.CollectionProducts.4114667680",
+    "description": "products in collection",
+    "defaultMessage": "Products in {name}"
+  },
+  {
+    "id": "src.collections.components.CollectionProducts.460524544",
+    "description": "button",
+    "defaultMessage": "Assign product"
+  },
+  {
+    "id": "src.collections.components.CollectionProducts.636461959",
+    "description": "product name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.collections.components.CollectionProducts.1952810469",
+    "description": "product type",
+    "defaultMessage": "Type"
+  },
+  {
+    "id": "src.collections.components.CollectionProducts.3640454975",
+    "description": "product is published",
+    "defaultMessage": "Published"
+  },
+  {
+    "id": "src.collections.components.CollectionProducts.2341910657",
+    "description": "product is not published",
+    "defaultMessage": "Not published"
+  },
+  {
+    "id": "src.collections.components.CollectionProducts.1657559629",
+    "defaultMessage": "No products found"
+  }
+]

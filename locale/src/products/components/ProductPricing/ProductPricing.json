@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.products.components.ProductPricing.1099355007",
+    "description": "product pricing",
+    "defaultMessage": "Pricing"
+  },
+  {
+    "id": "src.products.components.ProductPricing.3015886868",
+    "defaultMessage": "Charge taxes for this item"
+  },
+  {
+    "id": "src.products.components.ProductPricing.1134347598",
+    "description": "product price",
+    "defaultMessage": "Price"
+  }
+]

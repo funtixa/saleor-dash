@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.attributes.components.AttributeValueDeleteDialog.203246037",
+    "description": "dialog title",
+    "defaultMessage": "Delete attribute value"
+  },
+  {
+    "id": "src.attributes.components.AttributeValueDeleteDialog.1934550550",
+    "defaultMessage": "Are you sure you want to delete \"{name}\" value? If you delete it you won’t be able to assign it to any of the products with \"{attributeName}\" attribute."
+  },
+  {
+    "id": "src.attributes.components.AttributeValueDeleteDialog.273524270",
+    "description": "delete attribute value",
+    "defaultMessage": "Are you sure you want to delete \"{name}\" value?"
+  }
+]

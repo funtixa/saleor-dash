@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.components.RichTextEditor.2160163587",
+    "description": "button",
+    "defaultMessage": "Add or Edit Link"
+  },
+  {
+    "id": "src.components.RichTextEditor.2925475978",
+    "defaultMessage": "URL Linked"
+  }
+]

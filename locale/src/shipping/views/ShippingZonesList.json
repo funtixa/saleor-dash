@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.shipping.views.1010705153",
+    "description": "dialog header",
+    "defaultMessage": "Delete Shipping Zone"
+  },
+  {
+    "id": "src.shipping.views.1005071028",
+    "defaultMessage": "Are you sure you want to delete {shippingZoneName} shipping zone?"
+  },
+  {
+    "id": "src.shipping.views.1711385401",
+    "description": "dialog header",
+    "defaultMessage": "Delete Shipping Zones"
+  },
+  {
+    "id": "src.shipping.views.3317962253",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this shipping zone} other{{displayQuantity} shipping zones}}?"
+  }
+]

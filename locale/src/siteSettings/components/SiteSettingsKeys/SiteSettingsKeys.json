@@ -1,0 +1,27 @@
+[
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeys.226491688",
+    "description": "section header",
+    "defaultMessage": "Authentication Keys"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeys.1114030884",
+    "description": "button",
+    "defaultMessage": "Add key"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeys.1270286507",
+    "description": "authentication provider name",
+    "defaultMessage": "Authentication Type"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeys.2446088470",
+    "description": "authentication provider API key",
+    "defaultMessage": "Key"
+  },
+  {
+    "id": "src.siteSettings.components.SiteSettingsKeys.3981699144",
+    "description": "no authentication provider API keys",
+    "defaultMessage": "No keys"
+  }
+]

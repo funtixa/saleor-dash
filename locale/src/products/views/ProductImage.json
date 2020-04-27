@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.products.views.1731766393",
+    "description": "dialog header",
+    "defaultMessage": "Delete Image"
+  },
+  {
+    "id": "src.products.views.2880386427",
+    "defaultMessage": "Are you sure you want to delete this image?"
+  }
+]

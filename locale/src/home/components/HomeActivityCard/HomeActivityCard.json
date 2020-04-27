@@ -1,0 +1,11 @@
+[
+  {
+    "id": "homeActivityCardHeader",
+    "description": "header",
+    "defaultMessage": "Activity"
+  },
+  {
+    "id": "homeActivityCardNoActivities",
+    "defaultMessage": "No activities found"
+  }
+]

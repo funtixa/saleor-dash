@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.plugins.components.PluginsList.636461959",
+    "description": "plugin name",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "src.plugins.components.PluginsList.3247064221",
+    "description": "plugin status",
+    "defaultMessage": "Active"
+  },
+  {
+    "id": "src.plugins.components.PluginsList.4120604650",
+    "description": "user action bar",
+    "defaultMessage": "Action"
+  },
+  {
+    "id": "src.plugins.components.PluginsList.666641390",
+    "defaultMessage": "No plugins found"
+  }
+]

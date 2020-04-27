@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.discounts.components.SaleValue.1148029984",
+    "description": "sale value, header",
+    "defaultMessage": "Value"
+  },
+  {
+    "id": "src.discounts.components.SaleValue.1205967018",
+    "description": "sale discount",
+    "defaultMessage": "Discount Value"
+  }
+]

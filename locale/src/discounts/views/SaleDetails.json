@@ -1,0 +1,61 @@
+[
+  {
+    "id": "src.discounts.views.2534378844",
+    "defaultMessage": "Removed sale"
+  },
+  {
+    "id": "saleDetailsUnassignCategory",
+    "description": "unassign category from sale, button",
+    "defaultMessage": "Unassign"
+  },
+  {
+    "id": "saleDetailsUnassignCollection",
+    "description": "unassign collection from sale, button",
+    "defaultMessage": "Unassign"
+  },
+  {
+    "id": "saleDetailsUnassignProduct",
+    "description": "unassign product from sale, button",
+    "defaultMessage": "Unassign"
+  },
+  {
+    "id": "src.discounts.views.1827854264",
+    "description": "dialog header",
+    "defaultMessage": "Unassign Categories From Sale"
+  },
+  {
+    "id": "src.discounts.views.4031975937",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to unassign {counter,plural,one{this category} other{{displayQuantity} categories}}?"
+  },
+  {
+    "id": "src.discounts.views.1952217501",
+    "description": "dialog header",
+    "defaultMessage": "Unassign Collections From Sale"
+  },
+  {
+    "id": "src.discounts.views.3000056951",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to unassign {counter,plural,one{this collection} other{{displayQuantity} collections}}?"
+  },
+  {
+    "id": "src.discounts.views.3395246518",
+    "description": "dialog header",
+    "defaultMessage": "Unassign Products From Sale"
+  },
+  {
+    "id": "src.discounts.views.3714782053",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to unassign {counter,plural,one{this product} other{{displayQuantity} products}}?"
+  },
+  {
+    "id": "src.discounts.views.506030254",
+    "description": "dialog header",
+    "defaultMessage": "Delete Sale"
+  },
+  {
+    "id": "src.discounts.views.1457489953",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {saleName}?"
+  }
+]

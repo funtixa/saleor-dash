@@ -1,0 +1,26 @@
+[
+  {
+    "id": "src.translations.components.TranslationsProductTypesPage.1281101905",
+    "description": "header",
+    "defaultMessage": "Translation Product Type \"{productTypeName}\" - {languageCode}"
+  },
+  {
+    "id": "src.translations.components.TranslationsProductTypesPage.2510190956",
+    "description": "header",
+    "defaultMessage": "Product Attribute ({attributeName})"
+  },
+  {
+    "id": "src.translations.components.TranslationsProductTypesPage.2642976392",
+    "defaultMessage": "Attribute Name"
+  },
+  {
+    "id": "src.translations.components.TranslationsProductTypesPage.1567737068",
+    "description": "attribute values",
+    "defaultMessage": "Value {number}"
+  },
+  {
+    "id": "src.translations.components.TranslationsProductTypesPage.3538502409",
+    "description": "header",
+    "defaultMessage": "Variant Attribute ({attributeName})"
+  }
+]

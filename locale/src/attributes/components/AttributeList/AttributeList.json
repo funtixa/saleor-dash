@@ -1,0 +1,30 @@
+[
+  {
+    "id": "src.attributes.components.AttributeList.3605174225",
+    "defaultMessage": "Attribute Code"
+  },
+  {
+    "id": "src.attributes.components.AttributeList.691600601",
+    "description": "attribute's label'",
+    "defaultMessage": "Default Label"
+  },
+  {
+    "id": "src.attributes.components.AttributeList.643174786",
+    "description": "attribute is visible",
+    "defaultMessage": "Visible"
+  },
+  {
+    "id": "src.attributes.components.AttributeList.2235596452",
+    "description": "attribute can be searched in dashboard",
+    "defaultMessage": "Searchable"
+  },
+  {
+    "id": "src.attributes.components.AttributeList.2186555805",
+    "description": "attribute can be searched in storefront",
+    "defaultMessage": "Use in faceted search"
+  },
+  {
+    "id": "src.attributes.components.AttributeList.1192828581",
+    "defaultMessage": "No attributes found"
+  }
+]

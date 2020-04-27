@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.discounts.components.SaleListPage.3866518732",
+    "description": "button",
+    "defaultMessage": "Create Sale"
+  },
+  {
+    "id": "src.discounts.components.SaleListPage.3907768880",
+    "description": "tab name",
+    "defaultMessage": "All Sales"
+  },
+  {
+    "id": "src.discounts.components.SaleListPage.1866913828",
+    "defaultMessage": "Search Sale"
+  }
+]

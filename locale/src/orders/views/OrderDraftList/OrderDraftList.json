@@ -1,0 +1,20 @@
+[
+  {
+    "id": "src.orders.views.OrderDraftList.1872939752",
+    "defaultMessage": "Order draft succesfully created"
+  },
+  {
+    "id": "src.orders.views.OrderDraftList.1648805446",
+    "defaultMessage": "Deleted draft orders"
+  },
+  {
+    "id": "src.orders.views.OrderDraftList.1161115149",
+    "description": "dialog header",
+    "defaultMessage": "Delete Order Drafts"
+  },
+  {
+    "id": "src.orders.views.OrderDraftList.395051106",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this order draft} other{{displayQuantity} orderDrafts}}?"
+  }
+]

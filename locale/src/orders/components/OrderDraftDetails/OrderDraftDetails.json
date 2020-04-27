@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.orders.components.OrderDraftDetails.2343989342",
+    "description": "section header",
+    "defaultMessage": "Order Details"
+  },
+  {
+    "id": "src.orders.components.OrderDraftDetails.2528459381",
+    "description": "button",
+    "defaultMessage": "Add products"
+  }
+]

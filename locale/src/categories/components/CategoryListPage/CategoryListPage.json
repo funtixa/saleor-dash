@@ -1,0 +1,16 @@
+[
+  {
+    "id": "src.categories.components.CategoryListPage.1140231710",
+    "description": "button",
+    "defaultMessage": "Create category"
+  },
+  {
+    "id": "src.categories.components.CategoryListPage.4294878092",
+    "description": "tab name",
+    "defaultMessage": "All Categories"
+  },
+  {
+    "id": "src.categories.components.CategoryListPage.3841025483",
+    "defaultMessage": "Search Category"
+  }
+]

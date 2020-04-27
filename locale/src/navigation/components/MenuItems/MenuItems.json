@@ -1,0 +1,16 @@
+[
+  {
+    "id": "menuItemsPlaceholder",
+    "defaultMessage": "Add new menu item to begin creating menu"
+  },
+  {
+    "id": "menuItemsHeader",
+    "description": "header",
+    "defaultMessage": "Menu Items"
+  },
+  {
+    "id": "menuItemsAddItem",
+    "description": "add new menu item",
+    "defaultMessage": "Create new item"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.productTypes.components.ProductTypeAttributeUnassignDialog.404238501",
+    "description": "dialog header",
+    "defaultMessage": "Unassign Attribute From Product Type"
+  },
+  {
+    "id": "src.productTypes.components.ProductTypeAttributeUnassignDialog.722498450",
+    "defaultMessage": "Are you sure you want to unassign {attributeName} from {productTypeName}?"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "src.collections.components.CollectionList.1214235329",
+    "defaultMessage": "Category Name"
+  },
+  {
+    "id": "src.collections.components.CollectionList.2527742754",
+    "defaultMessage": "No. of Products"
+  },
+  {
+    "id": "src.collections.components.CollectionList.3326160357",
+    "description": "collection availability",
+    "defaultMessage": "Availability"
+  },
+  {
+    "id": "src.collections.components.CollectionList.3640454975",
+    "description": "collection is published",
+    "defaultMessage": "Published"
+  },
+  {
+    "id": "src.collections.components.CollectionList.2341910657",
+    "description": "collection is not published",
+    "defaultMessage": "Not published"
+  },
+  {
+    "id": "src.collections.components.CollectionList.2137803833",
+    "defaultMessage": "No collections found"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.collections.components.CollectionCreatePage.951411809",
+    "description": "page header",
+    "defaultMessage": "Add Collection"
+  },
+  {
+    "id": "src.collections.components.CollectionCreatePage.946315389",
+    "defaultMessage": "Add search engine title and description to make this collection easier to find"
+  },
+  {
+    "id": "src.collections.components.CollectionCreatePage.2001551496",
+    "description": "collection",
+    "defaultMessage": "will be visible from {date}"
+  },
+  {
+    "id": "src.collections.components.CollectionCreatePage.1815688500",
+    "description": "collection",
+    "defaultMessage": "since {date}"
+  }
+]

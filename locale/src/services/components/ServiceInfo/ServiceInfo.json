@@ -1,0 +1,12 @@
+[
+  {
+    "id": "src.services.components.ServiceInfo.426959482",
+    "description": "header",
+    "defaultMessage": "Service Account Information"
+  },
+  {
+    "id": "src.services.components.ServiceInfo.3789449123",
+    "description": "service account",
+    "defaultMessage": "Account Name"
+  }
+]

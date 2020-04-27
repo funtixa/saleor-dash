@@ -1,0 +1,15 @@
+[
+  {
+    "id": "src.translations.components.TranslationFields.1348655672",
+    "defaultMessage": "Original String"
+  },
+  {
+    "id": "src.translations.components.TranslationFields.2481190613",
+    "description": "Translated Name",
+    "defaultMessage": "Translation"
+  },
+  {
+    "id": "src.translations.components.TranslationFields.1308081812",
+    "defaultMessage": "{numberOfFields} Translations, {numberOfTranslatedFields} Completed"
+  }
+]

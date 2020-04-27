@@ -1,0 +1,21 @@
+[
+  {
+    "id": "src.orders.components.OrderFulfillmentCancelDialog.732594284",
+    "description": "dialog header",
+    "defaultMessage": "Cancel Fulfillment"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillmentCancelDialog.2569854889",
+    "defaultMessage": "Are you sure you want to cancel this fulfillment?"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillmentCancelDialog.3515223857",
+    "description": "switch button",
+    "defaultMessage": "Restock items?"
+  },
+  {
+    "id": "src.orders.components.OrderFulfillmentCancelDialog.675709443",
+    "description": "button",
+    "defaultMessage": "Cancel fulfillment"
+  }
+]

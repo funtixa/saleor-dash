@@ -1,0 +1,15 @@
+[
+  {
+    "id": "menuListMenutitle",
+    "defaultMessage": "Menu Title"
+  },
+  {
+    "id": "menuListItems",
+    "description": "number of menu items",
+    "defaultMessage": "Items"
+  },
+  {
+    "id": "menuListNoMenus",
+    "defaultMessage": "No menus found"
+  }
+]

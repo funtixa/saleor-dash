@@ -1,0 +1,37 @@
+[
+  {
+    "id": "src.attributes.components.AttributeDetails.1336738461",
+    "description": "product attribute type",
+    "defaultMessage": "Dropdown"
+  },
+  {
+    "id": "src.attributes.components.AttributeDetails.3334509011",
+    "description": "product attribute type",
+    "defaultMessage": "Multiple Select"
+  },
+  {
+    "id": "src.attributes.components.AttributeDetails.691600601",
+    "description": "attribute's label",
+    "defaultMessage": "Default Label"
+  },
+  {
+    "id": "src.attributes.components.AttributeDetails.3605174225",
+    "description": "attribute's slug short code label",
+    "defaultMessage": "Attribute Code"
+  },
+  {
+    "id": "src.attributes.components.AttributeDetails.4107478955",
+    "description": "attribute slug input field helper text",
+    "defaultMessage": "This is used internally. Make sure you don’t use spaces"
+  },
+  {
+    "id": "src.attributes.components.AttributeDetails.1005562666",
+    "description": "attribute's editor component",
+    "defaultMessage": "Catalog Input type for Store Owner"
+  },
+  {
+    "id": "src.attributes.components.AttributeDetails.2592224946",
+    "description": "check to require attribute to have value",
+    "defaultMessage": "Value Required"
+  }
+]

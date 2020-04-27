@@ -1,0 +1,22 @@
+[
+  {
+    "id": "src.discounts.components.VoucherTypes.46415128",
+    "description": "voucher discount type",
+    "defaultMessage": "Fixed Amount"
+  },
+  {
+    "id": "src.discounts.components.VoucherTypes.3688224049",
+    "description": "voucher discount type",
+    "defaultMessage": "Percentage"
+  },
+  {
+    "id": "src.discounts.components.VoucherTypes.3289659291",
+    "description": "voucher discount type",
+    "defaultMessage": "Free Shipping"
+  },
+  {
+    "id": "src.discounts.components.VoucherTypes.3216816841",
+    "description": "header",
+    "defaultMessage": "Discount Type"
+  }
+]

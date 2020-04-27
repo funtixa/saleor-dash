@@ -1,0 +1,22 @@
+[
+  {
+    "id": "src.discounts.components.VoucherRequirements.653777456",
+    "description": "voucher requirement",
+    "defaultMessage": "Minimal order value"
+  },
+  {
+    "id": "src.discounts.components.VoucherRequirements.3740704788",
+    "description": "voucher requirement",
+    "defaultMessage": "Minimum quantity of items"
+  },
+  {
+    "id": "src.discounts.components.VoucherRequirements.3069107721",
+    "description": "voucher has no requirements",
+    "defaultMessage": "None"
+  },
+  {
+    "id": "src.discounts.components.VoucherRequirements.2746532349",
+    "description": "voucher requirements, header",
+    "defaultMessage": "Minimum Requirements"
+  }
+]

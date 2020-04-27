@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.orders.components.OrderCustomerNote.1520756907",
+    "description": "notes about customer, header",
+    "defaultMessage": "Notes"
+  },
+  {
+    "id": "src.orders.components.OrderCustomerNote.1505053535",
+    "defaultMessage": "No notes from customer"
+  }
+]

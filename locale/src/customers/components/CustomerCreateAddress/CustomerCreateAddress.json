@@ -1,0 +1,11 @@
+[
+  {
+    "id": "src.customers.components.CustomerCreateAddress.1751533141",
+    "description": "page header",
+    "defaultMessage": "Primary Address"
+  },
+  {
+    "id": "src.customers.components.CustomerCreateAddress.401345057",
+    "defaultMessage": "The primary address of this customer."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "src.staff.components.StaffProperties.2650522200",
+    "description": "section header",
+    "defaultMessage": "Staff Member Information"
+  },
+  {
+    "id": "src.staff.components.StaffProperties.2771097267",
+    "description": "button",
+    "defaultMessage": "Change photo"
+  },
+  {
+    "id": "src.staff.components.StaffProperties.457748370",
+    "description": "button",
+    "defaultMessage": "Delete photo"
+  }
+]

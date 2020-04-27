@@ -1,0 +1,144 @@
+[
+  {
+    "id": "src.taxes.components.CountryTaxesPage.1040021611",
+    "description": "tax rate",
+    "defaultMessage": "Accommodation"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2185495435",
+    "description": "tax rate",
+    "defaultMessage": "Admission to cultural events"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2557534380",
+    "description": "tax rate",
+    "defaultMessage": "Admission to entertainment events"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2616794607",
+    "description": "tax rate",
+    "defaultMessage": "Admission to sporting events"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.3911019760",
+    "description": "tax rate",
+    "defaultMessage": "Advertising"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2465450918",
+    "description": "tax rate",
+    "defaultMessage": "Agricultural supplies"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2201910191",
+    "description": "tax rate",
+    "defaultMessage": "Baby foodstuffs"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.1323923780",
+    "description": "tax rate",
+    "defaultMessage": "Bikes"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2394675125",
+    "description": "tax rate",
+    "defaultMessage": "Books"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2584490289",
+    "description": "tax rate",
+    "defaultMessage": "Children's clothing"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.3500730003",
+    "description": "tax rate",
+    "defaultMessage": "Domestic fuel"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.231341634",
+    "description": "tax rate",
+    "defaultMessage": "Domestic services"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.331757068",
+    "description": "tax rate",
+    "defaultMessage": "E-books"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2332795012",
+    "description": "tax rate",
+    "defaultMessage": "Foodstuffs"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.331632763",
+    "description": "tax rate",
+    "defaultMessage": "Hotels"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2948462144",
+    "description": "tax rate",
+    "defaultMessage": "Medical"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.1451721797",
+    "description": "tax rate",
+    "defaultMessage": "Newspapers"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2553129615",
+    "description": "tax rate",
+    "defaultMessage": "Passenger transport"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.815189256",
+    "description": "tax rate",
+    "defaultMessage": "Pharmaceuticals"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.4199760668",
+    "description": "tax rate",
+    "defaultMessage": "Property renovations"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.776474251",
+    "description": "tax rate",
+    "defaultMessage": "Restaurants"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.1260218997",
+    "description": "tax rate",
+    "defaultMessage": "Social housing"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2482229874",
+    "description": "tax rate",
+    "defaultMessage": "Standard"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.3525010870",
+    "description": "tax rate",
+    "defaultMessage": "Water"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.752780599",
+    "description": "tax rate",
+    "defaultMessage": "Wine"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2737618795",
+    "description": "header",
+    "defaultMessage": "Tax Rates in {countryName}"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.1755013298",
+    "defaultMessage": "Category"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.2022558114",
+    "defaultMessage": "Tax Rate"
+  },
+  {
+    "id": "src.taxes.components.CountryTaxesPage.3066312070",
+    "defaultMessage": "No reduced tax categories found"
+  }
+]

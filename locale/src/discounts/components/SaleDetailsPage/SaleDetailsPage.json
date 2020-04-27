@@ -1,0 +1,17 @@
+[
+  {
+    "id": "saleDetailsPageCategoriesQuantity",
+    "description": "number of categories",
+    "defaultMessage": "Categories ({quantity})"
+  },
+  {
+    "id": "saleDetailsPageCollectionsQuantity",
+    "description": "number of collections",
+    "defaultMessage": "Collections ({quantity})"
+  },
+  {
+    "id": "saleDetailsPageProductsQuantity",
+    "description": "number of products",
+    "defaultMessage": "Products ({quantity})"
+  }
+]

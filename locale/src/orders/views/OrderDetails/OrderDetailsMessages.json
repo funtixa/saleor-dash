@@ -1,0 +1,111 @@
+[
+  {
+    "id": "src.orders.views.OrderDetails.1056718390",
+    "defaultMessage": "Payment successfully captured"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.557535634",
+    "defaultMessage": "Payment not captured: {errorMessage}"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.667274681",
+    "defaultMessage": "Payment successfully refunded"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.3991286734",
+    "description": "notification",
+    "defaultMessage": "Payment not refunded: {errorMessage}"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.4245651107",
+    "defaultMessage": "Items successfully fulfilled"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.1096896329",
+    "defaultMessage": "Could not fulfill items"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.1636370257",
+    "defaultMessage": "Order marked as paid"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.1852833563",
+    "defaultMessage": "Could not mark order as paid"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.2808777264",
+    "defaultMessage": "Order successfully cancelled"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.3280942553",
+    "defaultMessage": "Order payment successfully voided"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.3178394068",
+    "defaultMessage": "Note successfully added"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.2714957902",
+    "defaultMessage": "Could not add note"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.3367579693",
+    "defaultMessage": "Order successfully updated"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.617145655",
+    "defaultMessage": "Shipping method successfully updated"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.1708579411",
+    "defaultMessage": "Could not update shipping method"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.1468420349",
+    "defaultMessage": "Order line deleted"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.2205960666",
+    "defaultMessage": "Could not delete order line"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.1999598492",
+    "defaultMessage": "Order line added"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.562214451",
+    "defaultMessage": "Could not create order line"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.1632861387",
+    "defaultMessage": "Order line updated"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.487150696",
+    "defaultMessage": "Could not update order line"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.927945225",
+    "defaultMessage": "Fulfillment successfully cancelled"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.4199953867",
+    "defaultMessage": "Could not cancel fulfillment"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.1475565380",
+    "defaultMessage": "Fulfillment successfully updated"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.553600482",
+    "defaultMessage": "Could not update fulfillment"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.1435191432",
+    "defaultMessage": "Draft order successfully finalized"
+  },
+  {
+    "id": "src.orders.views.OrderDetails.149745214",
+    "defaultMessage": "Could not finalize draft"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "src.components.AssignCategoryDialog.190977792",
+    "description": "dialog header",
+    "defaultMessage": "Assign Categories"
+  },
+  {
+    "id": "src.components.AssignCategoryDialog.1305061437",
+    "defaultMessage": "Search Categories"
+  },
+  {
+    "id": "src.components.AssignCategoryDialog.3690273268",
+    "defaultMessage": "Search by category name, etc..."
+  },
+  {
+    "id": "src.components.AssignCategoryDialog.3973677075",
+    "description": "button",
+    "defaultMessage": "Assign categories"
+  }
+]

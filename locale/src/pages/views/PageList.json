@@ -1,0 +1,52 @@
+[
+  {
+    "id": "src.pages.views.2543350562",
+    "description": "notification",
+    "defaultMessage": "Published pages"
+  },
+  {
+    "id": "src.pages.views.1080715663",
+    "description": "notification",
+    "defaultMessage": "Removed pages"
+  },
+  {
+    "id": "src.pages.views.2237014112",
+    "description": "unpublish page, button",
+    "defaultMessage": "Unpublish"
+  },
+  {
+    "id": "src.pages.views.1547167026",
+    "description": "publish page, button",
+    "defaultMessage": "Publish"
+  },
+  {
+    "id": "src.pages.views.2321087286",
+    "description": "dialog header",
+    "defaultMessage": "Publish Pages"
+  },
+  {
+    "id": "src.pages.views.1106379982",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to publish {counter,plural,one{this page} other{{displayQuantity} pages}}?"
+  },
+  {
+    "id": "src.pages.views.158565417",
+    "description": "dialog header",
+    "defaultMessage": "Unpublish Pages"
+  },
+  {
+    "id": "src.pages.views.70676789",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to unpublish {counter,plural,one{this page} other{{displayQuantity} pages}}?"
+  },
+  {
+    "id": "src.pages.views.2782958373",
+    "description": "dialog header",
+    "defaultMessage": "Delete Pages"
+  },
+  {
+    "id": "src.pages.views.3910409512",
+    "description": "dialog content",
+    "defaultMessage": "Are you sure you want to delete {counter,plural,one{this page} other{{displayQuantity} pages}}?"
+  }
+]
